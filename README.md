@@ -45,6 +45,9 @@ The project follows a seven-phase consulting approach:
 | `05_Implementation`       | Roadmap & Change Strategy          | Timeline, RACI, risks, change approach                       |
 | `06_Impact_Measurement`   | KPIs & Value Realization           | Metrics, dashboards, performance tracking                    |
 | `07_AI_Learnings`         | Automation & Experiment Log        | Low-code/AI tools, prompt strategies, automation testing     |
+| `08_Business_Case`        | Financial Model & ROI              | Assumptions, payback periods, investment vs. impact          |
+| `09_Project_Decision_Log` | Reasoning & Tradeoffs              | Key decisions and rationale throughout the engagement        |
+
 
 ---
 
