@@ -13,6 +13,7 @@ This folder focuses on identifying, analyzing, and managing the key stakeholders
 | `Comms_Plan.md`            | Communication cadence, channels, audiences, and owners |
 | `templates/RACI_Matrix.xlsx` | Downloadable Excel version of the RACI for stakeholder presentation |
 | `templates/Comms_Plan_Template.docx` | Editable Word version of the communication plan for executive use |
+| `templates/`                   | Subfolder containing downloadable deliverables in Excel and Word format |
 
 ---
 
