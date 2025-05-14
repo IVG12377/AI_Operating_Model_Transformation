@@ -83,3 +83,13 @@ Frameworks used will include MECE, RACI, prioritization matrices, stakeholder ma
 ## 💬 Version Note
 
 This project is a portfolio simulation designed to reflect real-world strategic transformation delivery. Content is adapted for public demonstration purposes.
+---
+
+## 🔍 Executive Enhancements
+
+To strengthen the realism and strategic depth of this project, additional workstreams have been introduced:
+
+- **08_Business_Case**: Develops a simplified financial model to simulate ROI, payback period, and investment logic behind the transformation initiative.
+- **09_Project_Decision_Log**: Captures key trade-offs, guiding questions, and rationale to illustrate consulting-style decision-making and transparency.
+
+These enhancements demonstrate the ability to communicate at an executive level, bridge operational insights with financial outcomes, and deliver stakeholder-aligned, data-backed recommendations.
