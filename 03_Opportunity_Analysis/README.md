@@ -1,8 +1,3 @@
-# 📁 Folder 03 – Opportunity Analysis
-
-This folder identifies and prioritizes areas where AI, automation, and business intelligence (BI) can unlock measurable value. Based on current-state pain points, the analysis focuses on feasibility, impact, and alignment with strategic goals.
-
----
 
 # 📁 Folder 03 – Opportunity Analysis
 
