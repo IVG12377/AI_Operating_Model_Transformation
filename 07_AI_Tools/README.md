@@ -4,12 +4,6 @@ This folder explores how artificial intelligence (AI) can be practically applied
 
 ---
 
-## Folder 07 – AI Tools
-
-This folder contains AI evaluation tools, executive visuals, and strategic templates that help assess and prioritize automation opportunities across the enterprise. These resources transform raw analysis into decision-ready insights for pilot selection and stakeholder alignment.
-
----
-
 ## 🧠 Folder Purpose
 
 This folder is designed to:
