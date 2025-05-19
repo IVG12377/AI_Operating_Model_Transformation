@@ -12,12 +12,12 @@ To uncover actionable insights from real or representative datasets and link the
 
 ## 📂 Folder Structure
 
-| Subfolder                        | Description                                                                |
-|----------------------------------|----------------------------------------------------------------------------|
-| `01_Attrition_Analysis/`         | Investigates employee attrition trends, risk patterns, and root causes     |
-| `02_Customer_Support_Tickets/`   | (Placeholder) Intended for analysis of ticket volumes and automation triggers |
-| `03_AI_Fit_Checklist_Analysis/`  | (Placeholder) Future module to quantify and visualize AI scoring logic     |
-| `data/`                          | Stores original and structured datasets for reference and reuse            |
+| Subfolder                        | Description                                                                | Status     |
+|----------------------------------|----------------------------------------------------------------------------|------------|
+| `01_Attrition_Analysis/`         | Investigates employee attrition trends, risk patterns, and root causes     | ✅ Complete |
+| `02_Customer_Support_Tickets/`   | Placeholder for future ticket volume, escalation trends, and automation triggers | 🟡 Planned |
+| `03_AI_Fit_Checklist_Analysis/`  | Placeholder for visualizing AI Fit scoring logic from Folder 07            | 🟡 Planned |
+| `data/`                          | Stores original and structured datasets for reference and reuse            | ✅ Ready    |
 
 ---
 
