@@ -1,0 +1,6 @@
+Process Area,Current Challenge,AI Opportunity,AI Maturity Required,Data Availability,Compliance Considerations,Expected ROI (High/Medium/Low),Recommended Next Step,Impact Score (1-5),Effort Score (1-5),Priority Score,GitHub Folder Reference
+Employee Onboarding,Manual onboarding steps increase time-to-productivity,"Use AI to auto-fill forms, validate IDs, and route tasks",Low,High,Moderate,High,"Map onboarding workflow, select RPA/ID tools",5,2,10,03_Opportunity_Analysis
+Vendor Management,Disparate systems lead to inconsistent vendor evaluation,AI-based vendor scoring and predictive risk analytics,High,Medium,High,High,Identify vendor datasets and evaluate AI model feasibility,4,4,16,03_Opportunity_Analysis
+Customer Support,High volume of repetitive support queries,Deploy NLP-powered chatbot for Tier 1 support,Medium,High,Low,Medium,Prototype chatbot using historical support logs,3,2,6,04_Data_Analysis
+Document Processing,Paper-based documents slow down approvals,OCR and ML-based auto-extraction and classification,Medium,High,High,High,Pilot OCR on 50 documents and review accuracy,5,3,15,04_Data_Analysis
+Performance Tracking,Difficulty consolidating KPI data across teams,Automated dashboard generation using AI-driven insights,Medium,Medium,Low,Medium,Define KPIs and test dashboard tools like Power BI + AI plugins,4,2,8,05_Strategic_Recommendations
