@@ -44,9 +44,9 @@ This swimlane diagram illustrates the cross-functional workflow for credit appro
 ---
 
 ## 📂 Next Artifacts (Coming Soon)
-- **User Journey Map**: Manual vs. Automated Experience
-- **Executive Summary Slide or Visual Wrap-Up**
-- **Cross-functional Implementation Blueprint**
+- **Executive Summary Slide** – Single-slide case story for stakeholder walkthroughs
+- **Cross-functional Implementation Blueprint** – Visual roadmap of roles, timelines, and execution phases
+
 
 ---
 
