@@ -43,10 +43,17 @@ This swimlane diagram illustrates the cross-functional workflow for credit appro
 
 ---
 
-## 📂 Next Artifacts (Coming Soon)
-- **Executive Summary Slide** – Single-slide case story for stakeholder walkthroughs
-- **Cross-functional Implementation Blueprint** – Visual roadmap of roles, timelines, and execution phases
 
+## 👣 User Journey Map: Manual vs. Automated Experience
+
+This visual highlights the employee experience gap between a manual onboarding flow and one enhanced by AI-driven automation.
+
+![User Journey Map](./Journey_Map_Manual_vs_Automated.png)
+
+### 🔍 Experience Highlights:
+- Eliminates manual follow-up delays
+- AI introduces visibility and accountability
+- Reinforces SLA goals through automation triggers
 
 ---
 
