@@ -1,4 +1,3 @@
-
 # 🛠️ 05_Design_Solutions
 
 This folder contains solution design artifacts supporting the proposed operating model transformation. Each artifact visualizes a key component of the future state — from automation logic to redesigned workflows — that drives measurable impact.
@@ -18,6 +17,17 @@ The diagram below showcases an automation logic flow used to escalate incomplete
 
 ---
 
+## 🔄 Before and After Comparison
+
+This enhanced visual compares the manual onboarding escalation process with the optimized AI-enhanced version.
+
+![Before and After Comparison](./Before_After_Comparison.png)
+
+### 🔍 Key Takeaways:
+- Manual process lacked structure and consistency
+- Automation introduces tracking, triggers, and SLA enforcement
+- Color-coded flow makes inefficiencies vs. improvements clear
+
 ---
 
 ## 🏊 Swimlane: Onboarding Credit Approval Process
@@ -34,12 +44,10 @@ This swimlane diagram illustrates the cross-functional workflow for credit appro
 ---
 
 ## 📂 Next Artifacts (Coming Soon)
-- Before/After Process Comparison (visual completed — embed next)
-- User Journey: Manual vs. Automated Experience
+- **User Journey Map**: Manual vs. Automated Experience
+- **Executive Summary Slide or Visual Wrap-Up**
+- **Cross-functional Implementation Blueprint**
 
 ---
 
 > 🔧 All visuals in this folder are optimized for clarity, stakeholder communication, and GitHub presentation.
-
-
-
