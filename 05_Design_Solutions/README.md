@@ -48,7 +48,8 @@ This swimlane diagram illustrates the cross-functional workflow for credit appro
 
 This visual highlights the employee experience gap between a manual onboarding flow and one enhanced by AI-driven automation.
 
-![User Journey Map](./Journey_Map_Manual_vs_Automated.png)
+![User Journey Map](./User_Journey_Map_Manual_vs_Automated.png)
+
 
 ### 🔍 Experience Highlights:
 - Eliminates manual follow-up delays
