@@ -18,13 +18,28 @@ The diagram below showcases an automation logic flow used to escalate incomplete
 
 ---
 
+---
+
+## 🏊 Swimlane: Onboarding Credit Approval Process
+
+This swimlane diagram illustrates the cross-functional workflow for credit approval, showing responsibilities across the Customer, Sales, Management, and Credit Department roles.
+
+![Swimlane Onboarding Credit Approval](./Swimlane_Onboarding_Credit_Approval.png)
+
+### 🔍 Key Insights:
+- Clarifies ownership across stakeholders
+- Highlights escalation and decision logic
+- Complements automation and SLA improvements
+
+---
+
 ## 📂 Next Artifacts (Coming Soon)
-- Before/After Process Comparison
+- Before/After Process Comparison (visual completed — embed next)
 - User Journey: Manual vs. Automated Experience
-- Swimlane Diagram for Role-Based Accountability
 
 ---
 
 > 🔧 All visuals in this folder are optimized for clarity, stakeholder communication, and GitHub presentation.
+
 
 
