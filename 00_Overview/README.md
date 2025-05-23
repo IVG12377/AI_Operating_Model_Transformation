@@ -8,8 +8,9 @@ This GitHub repository showcases a full-cycle operating model transformation usi
 
 Explore key solution design artifacts from [Folder 05](../05_Design_Solutions):
 
-- **Automation Trigger Flow**
+- **Automation Trigger Flow**  
   ![Automation Trigger Flow](../05_Design_Solutions/Automation_Trigger_Flow.png)
 
-- **Before and After Comparison**
+- **Before and After Comparison**  
   ![Before and After Comparison](../05_Design_Solutions/Before_After_Comparison.png)
+
