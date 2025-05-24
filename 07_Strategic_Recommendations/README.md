@@ -10,7 +10,7 @@ All deliverables are designed to support executive decision-making, stakeholder 
 
 The roadmap below illustrates the four-phase strategy for embedding AI into enterprise operations — from pilot testing to optimized value realization.
 
-![Strategic Roadmap](./Strategic_Roadmap.png)
+<img src="./Strategic_Roadmap.png" alt="Strategic Roadmap" width="800"/>
 
 > 📌 This roadmap provides the north star view for sequencing business capabilities, change efforts, and AI maturity.
 
