@@ -1,26 +1,26 @@
 # 🧭 Governance & Execution Cadence
 
-This document defines the rhythm of meetings, updates, and decisions throughout implementation to maintain transparency and momentum.
+This guide outlines the rhythm of project delivery touchpoints to ensure accountability, visibility, and timely decision-making across all stakeholders.
 
 ---
 
-## Weekly Cadence
+## 📅 Weekly Governance
 
-| Meeting | Purpose | Audience | Owner |
-|---------|---------|----------|--------|
-| Workstream Stand-Ups | Resolve blockers, sync on tasks | Workstream teams | Workstream Leads |
-| PMO Tracker Update | Update statuses and timelines | PMO + Leads | PMO |
-| Risk & Escalation Sync | Address risks and issues | PMO + Sponsors | PMO Director |
-
----
-
-## Monthly Cadence
-
-| Meeting | Purpose | Audience | Owner |
-|---------|---------|----------|--------|
-| Steering Committee | Progress readout + decisions | Executives | Program Sponsor |
-| KPI & Value Checkpoint | Review performance & metrics | PMO + Business Leads | Business Ops |
+| Meeting | Purpose | Attendees | Owner |
+|---------|---------|-----------|-------|
+| **Workstream Stand-Ups** | Track progress, resolve blockers | Workstream Leads, PMO | Workstream Leads |
+| **Tracker Updates** | Refresh dashboard, flag variances | PMO, Business Analysts | PMO Lead |
+| **Escalation Sync** | Prioritize issues, assess risks | PMO, Sponsors | PMO Director |
 
 ---
 
-> ⏱️ Consistent cadence enables focused delivery, proactive problem solving, and executive visibility.
+## 📆 Monthly Governance
+
+| Meeting | Purpose | Attendees | Owner |
+|---------|---------|-----------|-------|
+| **Steering Committee** | Executive review, key decisions | Sponsors, PMO, Execs | Program Sponsor |
+| **Value Realization Checkpoint** | Track KPIs, review ROI | PMO, Ops, Finance | Ops Lead |
+
+---
+
+> 🗓️ This cadence ensures proactive execution and agile governance across the transformation program.
