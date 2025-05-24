@@ -93,4 +93,19 @@ This journey map captures the employee experience during onboarding under two co
 
 ---
 
+## 🧱 Solution Stack Overview
+
+This diagram shows how the four key solution artifacts align to form a cohesive automation and onboarding improvement strategy.
+
+![Solution Stack Overview](./Solution_Stack_Overview.png)
+
+---
+
+## ✏️ Solution Sketches
+
+Explore future-state concepts and raw ideation notes for continuous improvement:
+
+👉 [Solution_Sketches.md](./Solution_Sketches.md)
+
+
 > 💡 This folder is intended as a visual anchor for cross-functional design sessions, stakeholder validation, and implementation planning.
