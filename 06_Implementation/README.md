@@ -1,12 +1,12 @@
 # 🚀 06_Implementation
 
-This folder outlines the implementation roadmap for deploying the proposed AI-enabled operating model transformation. It provides a phased timeline, ownership clarity, and coordinated workstreams to ensure execution readiness across all functional areas.
+This folder outlines the implementation roadmap for deploying the proposed AI-enabled operating model transformation. It provides a phased timeline, defined ownership roles, and coordinated workstreams to ensure execution readiness across all functional areas.
 
 ---
 
 ## 📅 Implementation Timeline
 
-A 12-week phased timeline highlights the four core stages of implementation: Plan, Design, Build, and Launch.
+A 12-week phased timeline highlights the four core stages of implementation: **Plan**, **Design**, **Build**, and **Launch**.
 
 ![Implementation Timeline](./Implementation_Timeline.png)
 
@@ -14,7 +14,7 @@ A 12-week phased timeline highlights the four core stages of implementation: Pla
 
 ## 👥 RACI Matrix
 
-This matrix defines role clarity for all key contributors using the RACI (Responsible, Accountable, Consulted, Informed) model — ensuring governance across project stages.
+This matrix defines role clarity for all key contributors using the RACI (Responsible, Accountable, Consulted, Informed) model — ensuring governance and cross-functional accountability.
 
 ![RACI Matrix](./RACI_Matrix_Implementation.png)
 
@@ -22,16 +22,29 @@ This matrix defines role clarity for all key contributors using the RACI (Respon
 
 ## 🔄 Workstream Execution Tracker
 
-This tracker visualizes execution progress by mapping out key workstreams, owners, and timing across the implementation window.
+This tracker visualizes implementation progress by mapping out key workstreams, owners, timelines, and current status.
 
 ![Workstream Tracker](./Workstream_Execution_Tracker.png)
 
 ---
 
-## 📌 Key Insights
+## 📌 Core Implementation Deliverables
 
-- 🧭 Clear phasing enables parallel planning and early-stage delivery wins  
-- 👥 The RACI model reduces ambiguity in decision-making and ownership  
-- 🚦 The tracker supports real-time visibility and project agility  
+| File | Description |
+|------|-------------|
+| [`Implementation_Roadmap.md`](./Implementation_Roadmap.md) | Phase-by-phase breakdown of all implementation milestones |
+| [`Delivery_Risks_and_Mitigations.md`](./Delivery_Risks_and_Mitigations.md) | Working risk log with mitigation plans |
+| [`Governance_Cadence.md`](./Governance_Cadence.md) | Weekly and monthly delivery cadence for PMO and sponsors |
 
-> 💡 This folder is meant to guide program managers, transformation leaders, and cross-functional teams during delivery. Outputs are presentation-ready and support weekly stand-ups and stakeholder reviews.
+---
+
+## 🧠 Key Execution Principles
+
+- 🧭 **Phased Planning**: Clear stages reduce risk and allow faster iteration  
+- 👥 **Role Clarity**: RACI ensures decisions are made and acted on swiftly  
+- 🚦 **Tracking and Governance**: Dashboards and cadence drive alignment  
+- 🛡️ **Proactive Risk Management**: Risks are named, owned, and mitigated in real-time
+
+---
+
+> 💡 This folder is designed to guide program managers, transformation leads, and executive sponsors through effective delivery. All files are ready for reuse in playbooks, presentations, and steering committee reviews.
