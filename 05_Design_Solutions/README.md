@@ -1,61 +1,96 @@
 # 🛠️ 05_Design_Solutions
 
-This folder contains solution design artifacts supporting the proposed operating model transformation. Each artifact visualizes a key component of the future state — from automation logic to redesigned workflows — that drives measurable impact.
+This folder contains solution design artifacts supporting the proposed AI-enabled operating model transformation. These visual frameworks translate the vision into tangible workflows, decision logic, and experience enhancements — all tailored to accelerate execution and drive measurable business outcomes.
 
 ---
 
-## 📌 Automation Trigger Flow
-
-The diagram below showcases an automation logic flow used to escalate incomplete onboarding tasks via AI notification. This solution is designed to modernize operational workflows, improve accountability, and ensure SLA compliance in HR processes.
-
-![Automation Trigger Flow](./Automation_Trigger_Flow.png)
-
-### 🔍 Key Highlights
-- Triggers an AI alert if a task remains incomplete after 5 days
-- Clarifies responsibility and timing for HR follow-up
-- Designed using Whimsical for clarity and stakeholder alignment
+## 📂 Table of Contents
+- [🔍 Executive Summary](#-executive-summary)
+- [📁 Visual Artifact Overview](#-visual-artifact-overview)
+- [🔄 Automation Trigger Flow](#-automation-trigger-flow)
+- [🧾 Before and After Comparison](#-before-and-after-comparison)
+- [🏊 Swimlane Diagram: Credit Approval](#-swimlane-diagram-credit-approval)
+- [👣 User Journey Map](#-user-journey-map)
+- [📌 Supporting Files](#-supporting-files)
 
 ---
 
-## 🔄 Before and After Comparison
+## 🔍 Executive Summary
 
-This enhanced visual compares the manual onboarding escalation process with the optimized AI-enhanced version.
-
-![Before and After Comparison](./Before_After_Comparison.png)
-
-### 🔍 Key Takeaways:
-- Manual process lacked structure and consistency
-- Automation introduces tracking, triggers, and SLA enforcement
-- Color-coded flow makes inefficiencies vs. improvements clear
+The following designs reflect the "future state" vision across key HR and credit workflows. These solutions combine automation, accountability, and service-level enforcement into visual blueprints for transformation. Each artifact is intended for stakeholder alignment and solution validation during the design and implementation phases.
 
 ---
 
-## 🏊 Swimlane: Onboarding Credit Approval Process
+## 📁 Visual Artifact Overview
 
-This swimlane diagram illustrates the cross-functional workflow for credit approval, showing responsibilities across the Customer, Sales, Management, and Credit Department roles.
-
-![Swimlane Onboarding Credit Approval](./Swimlane_Onboarding_Credit_Approval.png)
-
-### 🔍 Key Insights:
-- Clarifies ownership across stakeholders
-- Highlights escalation and decision logic
-- Complements automation and SLA improvements
+| Artifact | Description | Preview |
+|---------|-------------|---------|
+| **Automation Trigger Flow** | AI escalates onboarding tasks after 5 days of inactivity | ![Automation Trigger Flow](./Automation_Trigger_Flow.png) |
+| **Before/After Comparison** | Shows manual vs. automated onboarding escalation | ![Before/After Comparison](./Before_After_Onboarding.png) |
+| **Swimlane Diagram** | Visualizes cross-functional credit approval workflow | ![Swimlane Diagram](./Swimlane_Onboarding_Credit_Approval.png) |
+| **User Journey Map** | Experience impact of manual vs. AI-enhanced onboarding | ![User Journey Map](./User_Journey_Map_Onboarding.png) |
 
 ---
 
+## 🔄 Automation Trigger Flow
 
-## 👣 User Journey Map: Manual vs. Automated Experience
+This diagram models an AI notification logic for HR onboarding SLAs. Tasks that remain incomplete beyond 5 days automatically trigger alerts to the responsible HR contact.
 
-This visual highlights the employee experience gap between a manual onboarding flow and one enhanced by AI-driven automation.
-
-![User Journey Map](./User_Journey_Map_Manual_vs_Automated.png)
-
-
-### 🔍 Experience Highlights:
-- Eliminates manual follow-up delays
-- AI introduces visibility and accountability
-- Reinforces SLA goals through automation triggers
+**Highlights:**
+- Improves visibility into delayed workflows
+- Drives accountability through auto-escalation
+- Ensures SLA compliance without manual chasing
 
 ---
 
-> 🔧 All visuals in this folder are optimized for clarity, stakeholder communication, and GitHub presentation.
+## 🧾 Before and After Comparison
+
+This visual contrasts the manual onboarding escalation process with its AI-enhanced alternative.
+
+**Key Differences:**
+- Manual version lacks structure or ownership
+- AI introduces proactive tracking and alert triggers
+- Simplifies governance with automated routing
+
+---
+
+## 🏊 Swimlane Diagram: Credit Approval
+
+This swimlane outlines the step-by-step flow for onboarding credit approvals, showing how responsibility is distributed across roles.
+
+**Departments Included:**
+- Customer
+- Sales
+- Management
+- Credit Department
+
+**Key Benefits:**
+- Clarifies decision-making boundaries
+- Identifies handoff inefficiencies
+- Aligns with automation points in SLA workflow
+
+---
+
+## 👣 User Journey Map
+
+This journey map captures the employee experience during onboarding under two conditions: manual and AI-automated.
+
+**Impact:**
+- Automation reduces onboarding friction
+- Enables timely resolution through triggers
+- Reinforces SLA commitments with transparency
+
+---
+
+## 📌 Supporting Files
+
+| File | Description |
+|------|-------------|
+| `Framework_Decision_Matrix.xlsx` | Logic behind which solutions were prioritized |
+| `Slide_Deck_Design_Solutions.pptx` | Presentation-ready summary for leadership |
+| `Workflow Logic for AI Escalation.png` | Additional diagram supporting trigger logic |
+| `Solution_Sketches.md` | Placeholder for future design iterations |
+
+---
+
+> 💡 This folder is intended as a visual anchor for cross-functional design sessions, stakeholder validation, and implementation planning.
