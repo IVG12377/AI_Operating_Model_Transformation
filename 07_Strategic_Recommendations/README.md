@@ -37,21 +37,23 @@ Across the transformation journey, four core themes emerged as essential levers 
 
 The roadmap below outlines a phased approach to implementation over 18 months. Each wave builds on the last, balancing quick wins with long-term scalability.
 
+This roadmap reflects key principles from leading transformation frameworks (including aiSTROM), ensuring cross-functional readiness, governance, talent evolution, and continuous feedback mechanisms are built in from the start.
+
 ![Strategic Roadmap](./Strategic_Roadmap.png)
 
-**Phases:**
+### **Phases Overview:**
 
 - **Phase 1: Planning**  
-  Finalize initiative scope, conduct readiness assessments, build alignment, and prepare pilot use cases.
+  Finalize initiative scope, conduct readiness assessments, build alignment, and prepare pilot use cases across data, people, and process.
 
 - **Phase 2: Pilot**  
-  Execute 2–3 targeted AI interventions to test infrastructure, change appetite, and data pipelines.
+  Execute 2–3 targeted AI interventions to test infrastructure, change appetite, and data pipelines. Use interdisciplinary teams to de-risk.
 
 - **Phase 3: Scale-Up**  
-  Expand successful pilots across key functions. Introduce training programs, governance, and early metrics tracking.
+  Expand successful pilots across functions. Introduce training programs, governance protocols, and early metrics tracking.
 
 - **Phase 4: Full Deployment**  
-  Integrate AI into the core operating model. Institutionalize continuous improvement, ethics, and performance dashboards.
+  Institutionalize AI in the operating model. Embed ethics, continuous improvement, and performance KPIs.
 
 ---
 
