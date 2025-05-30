@@ -1,6 +1,6 @@
 # 🧩 07_Strategic_Recommendations
 
-This folder synthesizes key findings, insights, and frameworks from the previous phases of the AI Operating Model Transformation. It translates data-driven analysis and stakeholder priorities into a cohesive strategic recommendation aligned to business impact, feasibility, and transformation readiness.
+This folder synthesizes key findings, insights, and frameworks from the AI Operating Model Transformation project. It translates stakeholder priorities, data insights, and opportunity analysis into a cohesive strategic recommendation that is business-aligned, actionable, and scalable.
 
 ---
 
@@ -8,76 +8,95 @@ This folder synthesizes key findings, insights, and frameworks from the previous
 
 Deliver clear, actionable recommendations that:
 
-- Address pain points identified in current-state analysis
-- Leverage high-impact, AI-enabled opportunities
-- Align with stakeholder expectations and organizational capacity
-- Maximize long-term business value through phased execution
+- Address pain points identified in current-state analysis  
+- Leverage high-impact, AI-enabled opportunities  
+- Align with stakeholder expectations and organizational capacity  
+- Maximize long-term business value through phased execution  
 
 ---
 
 ## 🔍 Strategic Themes
 
-Across the transformation journey, four core themes emerged as essential levers for impact:
-
-![Strategic Roadmap](./Strategic_Roadmap_Final.png)
-
-1. **AI Integration**  
-   Deploy automation and intelligence to reduce friction, improve accuracy, and increase decision velocity.
-
-2. **Process Optimization**  
-   Redesign workflows for simplicity, speed, and visibility across cross-functional teams.
-
-3. **Talent Development**  
-   Equip the workforce with capabilities to support and scale AI adoption.
-
-4. **Change Management**  
-   Orchestrate behavioral, cultural, and operational alignment across stakeholder groups.
+1. **AI Integration** – Embed automation and decision augmentation across workflows  
+2. **Process Optimization** – Redesign processes for speed, simplicity, and impact  
+3. **Talent Development** – Enable hybrid roles, citizen developers, and AI literacy  
+4. **Change Management** – Align behaviors, incentives, and executive sponsorship
 
 ---
 
 ## 🧠 Strategic Roadmap
 
-The roadmap below outlines a phased approach to implementation over 18 months. Each wave builds on the last, balancing quick wins with long-term scalability.
+The roadmap outlines a phased 18-month implementation strategy:
 
-This roadmap reflects key principles from leading transformation frameworks (including aiSTROM), ensuring cross-functional readiness, governance, talent evolution, and continuous feedback mechanisms are built in from the start.
+![Strategic Roadmap](./Strategic_Roadmap_Final.png)
 
-### **Phases Overview:**
-
-- **Phase 1: Planning**  
-  Finalize initiative scope, conduct readiness assessments, build alignment, and prepare pilot use cases across data, people, and process.
-
-- **Phase 2: Pilot**  
-  Execute 2–3 targeted AI interventions to test infrastructure, change appetite, and data pipelines. Use interdisciplinary teams to de-risk.
-
-- **Phase 3: Scale-Up**  
-  Expand successful pilots across functions. Introduce training programs, governance protocols, and early metrics tracking.
-
-- **Phase 4: Full Deployment**  
-  Institutionalize AI in the operating model. Embed ethics, continuous improvement, and performance KPIs.
+- **Planning** – Readiness assessment, alignment, use case design  
+- **Pilot** – Execute 2–3 targeted AI interventions  
+- **Scale-Up** – Expand to cross-functional teams and workflows  
+- **Full Deployment** – Optimize AI across the operating model, embed KPIs
 
 ---
 
-## 🧾 Final Recommendations
+## 📈 AI Maturity Model
 
-| Strategic Area         | Key Recommendation |
-|------------------------|---------------------|
-| **AI Use Case Targeting**     | Prioritize high-impact, low-effort automation and decision augmentation use cases identified in `04_Data_Analysis`. |
-| **Governance & Risk**         | Establish an AI Governance Council to manage risk, accountability, and cross-functional coordination. |
-| **Org Design & Talent**       | Create hybrid roles (e.g., AI Translator, Citizen Developer) to bridge business and technical teams. |
-| **Measurement & Feedback**    | Track impact using KPIs and feedback loops defined in `08_Impact_Measurement`. Tie outcomes to incentives. |
+The AI Maturity Model helps assess organizational readiness:
+
+| Level | Description |
+|-------|-------------|
+| **1. Ad Hoc**      | Isolated pilots, no strategy |
+| **2. Emerging**    | Executive interest, early pipeline |
+| **3. Defined**     | KPIs, initial policies, roadmap |
+| **4. Integrated**  | CoE, cross-functional execution, tracked metrics |
+| **5. Optimized**   | AI-enabled decisioning, continuous learning |
+
+Full model here: [`AI_Maturity_Model.md`](./AI_Maturity_Model.md)
 
 ---
 
-## 📁 References
+## 🏛️ AI Center of Excellence Framework
 
-- [`04_Data_Analysis/`](../04_Data_Analysis): Exploratory analysis, attrition predictors, AI-fit scoring
-- [`05_AI_Fit_Framework/`](../05_AI_Fit_Framework): Value vs. Effort Matrix + AI Fit Checklist
-- [`06_Solution_Design/`](../06_Solution_Design): Process flows, user journeys, automation trigger mapping
+Centralizes governance, tooling, enablement, and delivery support.
+
+- Federated operating model with executive sponsorship  
+- Outputs include policy handbook, ethics dashboards, reusable assets  
+- Supports governance, innovation, training, and scaling  
+
+Full framework: [`AI_Center_of_Excellence_Framework.md`](./AI_Center_of_Excellence_Framework.md)
+
+---
+
+## 🔄 Change Management Strategy
+
+Orchestrates communication, capability building, and stakeholder engagement.
+
+- Role-based training + feedback loops  
+- Comms by audience (execs, managers, end users)  
+- Adoption and sentiment metrics tied to roadmap phases  
+
+Full strategy: [`Change_Management_Strategy.md`](./Change_Management_Strategy.md)
+
+---
+
+## 🧾 Final Strategic Recommendations
+
+| Focus Area         | Key Recommendation |
+|--------------------|---------------------|
+| **Use Case Targeting** | Prioritize high-impact, low-effort use cases |
+| **Governance**         | Establish AI Governance Council |
+| **Org Design**         | Create hybrid roles bridging business + technical teams |
+| **Measurement**        | Track adoption and outcomes via KPIs |
+
+---
+
+## 📥 Supporting Materials
+
+- [📄 Strategic Recommendations Briefing Deck (PDF)](./Strategic_Recommendations_Briefing_Deck.pdf)  
+- [📊 Editable PowerPoint Deck (PPTX)](./Strategic_Recommendations_Briefing_Deck.pptx)
 
 ---
 
 ## 📌 Next Step
 
-Proceed to [`08_Impact_Measurement`](../08_Impact_Measurement) to define KPIs and track strategic outcomes.
+Proceed to [`08_Impact_Measurement`](../08_Impact_Measurement) to define success metrics, establish AI value KPIs, and build a performance tracking framework.
 
 ---
