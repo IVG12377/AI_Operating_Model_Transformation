@@ -39,8 +39,6 @@ The roadmap below outlines a phased approach to implementation over 18 months. E
 
 This roadmap reflects key principles from leading transformation frameworks (including aiSTROM), ensuring cross-functional readiness, governance, talent evolution, and continuous feedback mechanisms are built in from the start.
 
-![Strategic Roadmap](./Strategic_Roadmap.png?v=2)
-
 ### **Phases Overview:**
 
 - **Phase 1: Planning**  
