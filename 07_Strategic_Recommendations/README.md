@@ -19,6 +19,8 @@ Deliver clear, actionable recommendations that:
 
 Across the transformation journey, four core themes emerged as essential levers for impact:
 
+![Strategic Roadmap](./Strategic_Roadmap_Final.png)
+
 1. **AI Integration**  
    Deploy automation and intelligence to reduce friction, improve accuracy, and increase decision velocity.
 
