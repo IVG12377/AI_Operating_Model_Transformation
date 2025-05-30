@@ -1,28 +1,68 @@
-# 📁 Folder 01 – Stakeholder Alignment
+# 👥 01_Stakeholder_Alignment
 
-This folder focuses on identifying, analyzing, and managing the key stakeholders involved in the transformation initiative. It includes strategic tools for stakeholder mapping, decision accountability, and communication planning.
-
----
-
-## 🔍 Folder Contents
-
-| File                        | Description |
-|----------------------------|-------------|
-| `Stakeholder_Map.md`       | Key stakeholder roles, influence, interests, engagement strategy |
-| `RACI_Matrix.md`           | Responsibility matrix across major transformation activities |
-| `Comms_Plan.md`            | Communication cadence, channels, audiences, and owners |
-| `templates/RACI_Matrix.xlsx` | Downloadable Excel version of the RACI for stakeholder presentation |
-| `templates/Comms_Plan_Template.docx` | Editable Word version of the communication plan for executive use |
-| `templates/`                   | Subfolder containing downloadable deliverables in Excel and Word format |
+This folder outlines the stakeholder engagement strategy for the AI Operating Model Transformation. Effective stakeholder alignment ensures the initiative is supported by those with influence, implemented by those with insight, and accepted by those impacted.
 
 ---
 
-## 💡 How to Use
+## 🎯 Objective
 
-- Use the `.md` files for GitHub navigation and documentation
-- Use the `templates/` folder for downloadable, presentation-ready versions
-- Customize the Excel and Word files with client-specific info in real-world scenarios
+- Identify key stakeholders across the organization  
+- Assess their influence, interest, and impact on the initiative  
+- Define communication plans and engagement strategies tailored by role  
+- Lay the foundation for change management and governance adoption
 
 ---
 
-**Last updated:** May 2025
+## 🗺️ Stakeholder Strategy Overview
+
+Stakeholders are segmented based on their role in driving, approving, or adopting AI initiatives. Key groups include:
+
+- **Executive Sponsors** – Provide vision, funding, and visibility  
+- **Business Unit Leaders** – Enable use case delivery and change buy-in  
+- **Data & Technology Owners** – Manage platforms, pipelines, and integration  
+- **Operational Teams** – Implement AI-enabled workflows  
+- **Legal & Risk** – Guide compliance, security, and ethical guardrails
+
+Each group is mapped to one of four engagement strategies:
+- Manage Closely
+- Keep Satisfied
+- Keep Informed
+- Monitor (Minimal Effort)
+
+---
+
+## 🎯 Impact vs. Effort Matrix
+
+This matrix supports stakeholder engagement prioritization by balancing level of effort required with their potential impact on the success of the initiative.
+
+![Impact Effort Matrix](./Impact_vs_Effort_Matrix.png)
+
+---
+
+## 🧠 Stakeholder Engagement Model
+
+| Group                 | Role                          | Engagement Strategy |
+|----------------------|-------------------------------|---------------------|
+| CEO, CIO             | Executive Sponsors            | Manage Closely      |
+| BU Heads             | Strategic Enablers            | Keep Satisfied      |
+| Data/IT Directors    | Technical Integrators         | Manage Closely      |
+| Ops Managers         | Workflow Contributors         | Keep Informed       |
+| Risk/Legal/Compliance| Risk & Policy Advisers        | Keep Satisfied      |
+| Analysts/Support     | End Users & Contributors      | Monitor             |
+
+---
+
+## 🧾 Deliverables in this Folder
+
+- Stakeholder List & Role Mapping (`Stakeholder_Map.xlsx`)  
+- Engagement Strategy Documentation (`Engagement_Model.md`)  
+- Communication Plan Draft (`Comms_Strategy_Template.md`)  
+- Visual: Impact vs. Effort Matrix (`Impact_vs_Effort_Matrix.png`)
+
+---
+
+## 📌 Next Step
+
+Proceed to [`02_Current_State_Assessment`](../02_Current_State_Assessment) to document pain points, process gaps, and existing capabilities across business and tech domains.
+
+---
