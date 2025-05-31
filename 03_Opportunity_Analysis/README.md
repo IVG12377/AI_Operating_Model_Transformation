@@ -1,19 +1,28 @@
 # 🔍 03_Opportunity_Analysis
 
-This folder identifies, assesses, and prioritizes high-impact AI opportunities across key operational areas. The goal is to align automation efforts with business value by evaluating both the *potential impact* and the *level of implementation effort* required.
+This folder defines and prioritizes the top AI use cases across business functions using a structured impact-effort matrix. The analysis supports resource allocation and sequencing by identifying high-value quick wins and longer-term strategic bets.
+
+---
+
+## 📁 Folder Contents
+
+| File                                      | Description                                                  |
+|-------------------------------------------|--------------------------------------------------------------|
+| `Opportunity_Matrix.xlsx`                | Use case scoring by impact, effort, and readiness            |
+| `AI_Opportunity_Prioritization_Matrix.png` | Visual matrix mapping quick wins vs strategic bets           |
 
 ---
 
 ## 📊 AI Opportunity Prioritization Matrix
 
-This 2x2 matrix plots AI use cases based on **business impact vs. implementation effort**. It categorizes opportunities into four strategic zones:
+This matrix evaluates potential AI initiatives by **business impact** and **implementation effort**, categorizing them into four strategy zones:
 
-- **Quick Wins**: High ROI, low complexity (e.g., onboarding automation)  
-- **Strategic Bets**: High-value but more complex (e.g., predictive attrition)  
-- **Low-Hanging Fruit**: Simple automations with modest value  
-- **Avoid/Defer**: High effort, low value (e.g., sensitive contract parsing)
+- **Quick Wins** – High impact, low effort (e.g., onboarding automation)
+- **Strategic Bets** – High value, high complexity (e.g., predictive attrition)
+- **Low-Hanging Fruit** – Simple tasks with modest ROI (e.g., calendar bots)
+- **Defer** – High effort, low reward (e.g., sensitive AI contract parsing)
 
-This prioritization framework enables alignment across business, IT, and compliance stakeholders while focusing resources on achievable early wins.
+The framework enables teams to align leadership on what’s achievable in the short term vs. where investment is needed for long-term ROI.
 
 ![AI Opportunity Prioritization Matrix](./AI_Opportunity_Prioritization_Matrix.png)
 
@@ -21,25 +30,19 @@ This prioritization framework enables alignment across business, IT, and complia
 
 ## 🧠 Opportunity Highlights
 
-| Opportunity                      | Impact       | Effort       | Priority Category     |
-|----------------------------------|--------------|--------------|------------------------|
-| Auto-onboarding                  | High         | Low          | Quick Win              |
-| Predictive attrition modeling   | High         | High         | Strategic Bet          |
-| Email automation (Outlook)      | Medium       | Low          | Low-Hanging Fruit      |
-| Generative compliance reports   | High         | High         | Strategic Bet          |
-| AI-driven contract analysis     | Low          | High         | Avoid/Defer            |
+| Opportunity                   | Impact | Effort | Category           |
+|-------------------------------|--------|--------|--------------------|
+| Auto-onboarding               | High   | Low    | Quick Win          |
+| Predictive attrition modeling| High   | High   | Strategic Bet      |
+| Email automation              | Medium | Low    | Low-Hanging Fruit  |
+| AI contract analysis          | Low    | High   | Avoid/Defer        |
 
 ---
 
 ## 🎯 Strategic Insight
 
-This opportunity scan helps stakeholders focus resources on the initiatives most likely to drive immediate value (e.g., onboarding automation) while building the case for longer-term investments like predictive analytics or generative documentation workflows.
-
-By visualizing trade-offs, the matrix also supports **cross-functional alignment** during solution planning, helping avoid wasteful experimentation or siloed initiatives.
+This prioritization is critical for aligning business leaders, IT architects, and compliance stakeholders on a unified roadmap. It also supports agile MVP planning by enabling rapid value realization from achievable early wins.
 
 ---
 
-## 🛠️ Supporting Files
-
-- `Opportunity_Matrix.xlsx` – Source evaluation matrix with scoring logic
-- `AI_Opportunity_Prioritization_Matrix.png` – Visual summary of key opportunities
+**Last updated:** May 2025
