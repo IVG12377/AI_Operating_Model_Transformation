@@ -111,7 +111,14 @@ This is your foundation. Everything else (tools, dashboards, even models) lives 
 
 ---
 
-## 📌 Next: Visual + Integration
+---
+
+## 🖼️ Visual Framework
+
+The graphic below summarizes the five pillars of a scalable, AI-enabled operating model. Each pillar reinforces the others, providing the structural backbone to deliver AI that is valuable, trusted, and repeatable.
+
+![AI Operating Model Framework](./AI_Operating_Model_Framework.png)
+
 
 A matching visual diagram and brief summary slide deck are coming next.
 
