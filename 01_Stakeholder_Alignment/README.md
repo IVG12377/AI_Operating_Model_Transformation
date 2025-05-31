@@ -1,68 +1,39 @@
-# 👥 01_Stakeholder_Alignment
+# 🤝 01_Stakeholder_Alignment
 
-This folder outlines the stakeholder engagement strategy for the AI Operating Model Transformation. Effective stakeholder alignment ensures the initiative is supported by those with influence, implemented by those with insight, and accepted by those impacted.
-
----
-
-## 🎯 Objective
-
-- Identify key stakeholders across the organization  
-- Assess their influence, interest, and impact on the initiative  
-- Define communication plans and engagement strategies tailored by role  
-- Lay the foundation for change management and governance adoption
+This folder focuses on identifying and engaging key stakeholders critical to the success of the AI-enabled operating model transformation. It defines roles, communication pathways, and alignment strategies to build early buy-in and minimize resistance throughout the change lifecycle.
 
 ---
 
-## 🗺️ Stakeholder Strategy Overview
+## 🗺️ Stakeholder Engagement Map
 
-Stakeholders are segmented based on their role in driving, approving, or adopting AI initiatives. Key groups include:
+The visual below maps stakeholders based on their **level of influence** and **level of interest**. This allows the project team to tailor communication, manage resistance, and prioritize engagement efforts for high-impact individuals and groups.
 
-- **Executive Sponsors** – Provide vision, funding, and visibility  
-- **Business Unit Leaders** – Enable use case delivery and change buy-in  
-- **Data & Technology Owners** – Manage platforms, pipelines, and integration  
-- **Operational Teams** – Implement AI-enabled workflows  
-- **Legal & Risk** – Guide compliance, security, and ethical guardrails
-
-Each group is mapped to one of four engagement strategies:
-- Manage Closely
-- Keep Satisfied
-- Keep Informed
-- Monitor (Minimal Effort)
+![Stakeholder Engagement Map](./Stakeholder_Engagement_Map.png)
 
 ---
 
-## 🎯 Impact vs. Effort Matrix
+## 👥 Stakeholder Categories
 
-This matrix supports stakeholder engagement prioritization by balancing level of effort required with their potential impact on the success of the initiative.
-
-![Impact Effort Matrix](./Impact_vs_Effort_Matrix.png)
-
----
-
-## 🧠 Stakeholder Engagement Model
-
-| Group                 | Role                          | Engagement Strategy |
-|----------------------|-------------------------------|---------------------|
-| CEO, CIO             | Executive Sponsors            | Manage Closely      |
-| BU Heads             | Strategic Enablers            | Keep Satisfied      |
-| Data/IT Directors    | Technical Integrators         | Manage Closely      |
-| Ops Managers         | Workflow Contributors         | Keep Informed       |
-| Risk/Legal/Compliance| Risk & Policy Advisers        | Keep Satisfied      |
-| Analysts/Support     | End Users & Contributors      | Monitor             |
+| Category           | Description                                                  | Example Roles               |
+|--------------------|--------------------------------------------------------------|-----------------------------|
+| Manage Closely     | High influence & high interest – critical to project success | Executive Sponsor, Risk     |
+| Keep Satisfied     | High influence & low interest – monitor for latent concerns  | IT Operations, Finance Lead |
+| Keep Informed      | Low influence & high interest – frontline insight providers  | End Users, Team Leads       |
+| Monitor            | Low influence & low interest – passive observers             | HR Ops, Facilities          |
 
 ---
 
-## 🧾 Deliverables in this Folder
+## 🎯 Alignment Strategy
 
-- Stakeholder List & Role Mapping (`Stakeholder_Map.xlsx`)  
-- Engagement Strategy Documentation (`Engagement_Model.md`)  
-- Communication Plan Draft (`Comms_Strategy_Template.md`)  
-- Visual: Impact vs. Effort Matrix (`Impact_vs_Effort_Matrix.png`)
-
----
-
-## 📌 Next Step
-
-Proceed to [`02_Current_State_Assessment`](../02_Current_State_Assessment) to document pain points, process gaps, and existing capabilities across business and tech domains.
+- **Early Alignment**: Executive sponsor and risk/compliance teams were engaged during planning to shape scope and guardrails.
+- **Two-Way Feedback Loops**: Functional leads and end users were invited to share friction points in existing workflows.
+- **Communication Plan**: Tailored messages and cadences were defined per stakeholder group using the RACI framework and touchpoint tracker.
 
 ---
+
+## 📂 Supporting Files
+
+- `Stakeholder_Map.xlsx` – Mapping of all stakeholders by role, function, and engagement strategy
+- `Stakeholder_Engagement_Map.png` – Visual quadrant for communication targeting
+- `Communication_Plan_Template.docx` – Editable engagement plan framework
+- `RACI_Template.xlsx` – Role responsibility grid aligned to implementation timeline
