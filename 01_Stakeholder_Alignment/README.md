@@ -6,9 +6,17 @@ This folder focuses on identifying and engaging key stakeholders critical to the
 
 ## 🗺️ Stakeholder Engagement Map
 
-The visual below maps stakeholders based on their **level of influence** and **level of interest**. This allows the project team to tailor communication, manage resistance, and prioritize engagement efforts for high-impact individuals and groups.
+This quadrant visual maps stakeholders by their **level of influence** and **interest** in the AI transformation initiative. It helps guide how to engage, align, or monitor different stakeholder groups based on their power and investment.
+
+- **Manage Closely**: Executive sponsors and compliance leaders  
+- **Keep Satisfied**: IT and finance leadership  
+- **Keep Informed**: End users, team leads  
+- **Monitor**: Supporting ops teams with low direct impact
+
+This visual serves as a tactical guide for communication strategy and governance planning.
 
 ![Stakeholder Engagement Map](./Stakeholder_Engagement_Map.png)
+
 
 ---
 

@@ -17,9 +17,9 @@ This folder documents the baseline analysis of the organization's current operat
 
 ## 🧩 Client Onboarding Workflow
 
-The diagram below outlines the current-state onboarding process across Hiring, HR, Compliance, IT, and Operations. It highlights sequential handoffs, manual tasks, and key pain points across functions.
+This visual illustrates the current-state onboarding process across Hiring, HR, Compliance, IT, and Operations. It captures **handoffs, delays, and process silos** that impact Day 1 readiness.
 
-This presentation-ready visual is used for stakeholder engagement and serves as a foundation for identifying automation opportunities in later phases.
+The diagram is used in stakeholder sessions to highlight friction and surface early automation opportunities like auto-provisioning, pre-filled compliance forms, and template-driven hiring requests.
 
 ![Client Onboarding Workflow](./Client_Onboarding_Workflow.png)
 
