@@ -25,7 +25,7 @@ Deliver strategic recommendations that:
 
 ---
 
-# 🧠 Executive Summary
+## 🧠 Executive Summary
 
 This transformation will:
 
@@ -66,6 +66,7 @@ Evaluates organizational readiness across six dimensions and five levels — fro
 Establish a centralized capability to scale AI responsibly across business units.
 
 **Includes:**
+
 - Governance + Risk Management  
 - Talent enablement and reusable tools  
 - Innovation and delivery support  
@@ -79,6 +80,7 @@ Establish a centralized capability to scale AI responsibly across business units
 A phased change playbook supporting stakeholder engagement, training, and resistance management.
 
 **Highlights:**
+
 - Role-based communication by audience  
 - Adoption and sentiment metrics  
 - Embedded into roadmap phases  
