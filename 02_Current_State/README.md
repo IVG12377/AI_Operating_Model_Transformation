@@ -3,6 +3,11 @@
 This folder documents the baseline analysis of the organization's current operating model. It includes written process mapping, visual documentation, and structured outputs to support future-state design and automation targeting.
 
 ---
+## 🧩 Client Onboarding Workflow
+
+The diagram below outlines the current-state onboarding process across HR, Compliance, IT, and Operations. It highlights key handoffs, manual tasks, and pain points.
+
+![Client Onboarding Workflow](./Client_Onboarding_Workflow.png)
 
 ## 🔍 Folder Contents
 
