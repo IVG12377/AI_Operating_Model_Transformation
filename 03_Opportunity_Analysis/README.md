@@ -1,40 +1,38 @@
+# 🔍 03_Opportunity_Analysis
 
-# 📁 Folder 03 – Opportunity Analysis
-
-This folder identifies and prioritizes areas where AI, automation, and business intelligence (BI) can unlock measurable value. Based on current-state pain points, the analysis focuses on feasibility, impact, and alignment with strategic goals.
-
----
-
-## 🔍 Folder Contents
-
-| File                         | Description                                                                 |
-|------------------------------|-----------------------------------------------------------------------------|
-| Opportunity_Matrix.md        | Ranked list of opportunities across functions with impact/effort scoring   |
-| AI_Fit_Checklist.md          | Qualitative criteria to evaluate if AI is suitable for each opportunity    |
-| BI_Triggers_Map.md           | Describes where BI tools could improve visibility, alerts, and reporting   |
-| Opportunity_Analysis_Summary.md | Completion checklist and high-level takeaways                        |
-| README.md                    | Explains folder structure and file usage                                   |
+This folder identifies, assesses, and prioritizes high-impact AI opportunities across key operational areas. The goal is to align automation efforts with business value by evaluating both the *potential impact* and the *level of implementation effort* required.
 
 ---
 
-## 🧠 How to Use
+## 📊 AI Opportunity Prioritization Matrix
 
-- Use `Opportunity_Matrix.md` to prioritize AI/automation opportunities based on feasibility and impact
-- Use `AI_Fit_Checklist.md` to **evaluate AI suitability** using maturity, data availability, compliance, and expected ROI
-- Use `BI_Triggers_Map.md` to describe where real-time dashboards or alerts can replace manual reports
-- Use `Opportunity_Analysis_Summary.md` to signal phase completion and guide Folder 04 (Design)
+The visual below maps key opportunities using a 2x2 matrix that classifies them into categories such as **Quick Wins**, **Strategic Bets**, **Low-Hanging Fruit**, and **Avoid/Defer**. This framework enables decision-makers to prioritize initiatives based on ROI potential and ease of execution.
+
+![AI Opportunity Prioritization Matrix](./AI_Opportunity_Prioritization_Matrix.png)
 
 ---
 
-## 📌 AI Fit Checklist – Strategic Add-On
+## 🧠 Opportunity Highlights
 
-This checklist complements the Opportunity Matrix by helping determine **which opportunities are viable for AI deployment**. It incorporates:
+| Opportunity                      | Impact       | Effort       | Priority Category     |
+|----------------------------------|--------------|--------------|------------------------|
+| Auto-onboarding                  | High         | Low          | Quick Win              |
+| Predictive attrition modeling   | High         | High         | Strategic Bet          |
+| Email automation (Outlook)      | Medium       | Low          | Low-Hanging Fruit      |
+| Generative compliance reports   | High         | High         | Strategic Bet          |
+| AI-driven contract analysis     | Low          | High         | Avoid/Defer            |
 
-- Current pain points and AI use case alignment
-- AI maturity and data readiness
-- Compliance risks and implementation feasibility
-- Scoring logic to prioritize for pilot execution
+---
 
-📂 **File Location:** `03_Opportunity_Analysis/templates/AI_Fit_Checklist_With_Scoring_and_Folders.csv`
+## 🎯 Strategic Insight
 
-🧭 Use this tool to **filter low-fit ideas before solutioning** and to guide where to focus pilot efforts or vendor exploration.
+This opportunity scan helps stakeholders focus resources on the initiatives most likely to drive immediate value (e.g., onboarding automation) while building the case for longer-term investments like predictive analytics or generative documentation workflows.
+
+By visualizing trade-offs, the matrix also supports **cross-functional alignment** during solution planning, helping avoid wasteful experimentation or siloed initiatives.
+
+---
+
+## 🛠️ Supporting Files
+
+- `Opportunity_Matrix.xlsx` – Source evaluation matrix with scoring logic
+- `AI_Opportunity_Prioritization_Matrix.png` – Visual summary of key opportunities
