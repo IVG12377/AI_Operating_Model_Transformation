@@ -25,16 +25,16 @@ Deliver strategic recommendations that:
 
 ---
 
-## 🧠 Executive Summary
+# 🧠 Executive Summary
 
-This transformation is projected to:
+This transformation will:
 
 - 🚀 Improve delivery time by 28%  
 - 💰 Reduce manual effort by 40%  
 - 🛡️ Strengthen compliance and risk posture  
 - 📣 Enable cultural readiness for AI adoption  
 
-➡️ [Read Executive Overview](./Executive_Summary.md)
+➡️ [Read Full Summary](./Executive_Summary.md)
 
 ---
 
