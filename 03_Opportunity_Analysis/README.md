@@ -6,7 +6,14 @@ This folder identifies, assesses, and prioritizes high-impact AI opportunities a
 
 ## 📊 AI Opportunity Prioritization Matrix
 
-The visual below maps key opportunities using a 2x2 matrix that classifies them into categories such as **Quick Wins**, **Strategic Bets**, **Low-Hanging Fruit**, and **Avoid/Defer**. This framework enables decision-makers to prioritize initiatives based on ROI potential and ease of execution.
+This 2x2 matrix plots AI use cases based on **business impact vs. implementation effort**. It categorizes opportunities into four strategic zones:
+
+- **Quick Wins**: High ROI, low complexity (e.g., onboarding automation)  
+- **Strategic Bets**: High-value but more complex (e.g., predictive attrition)  
+- **Low-Hanging Fruit**: Simple automations with modest value  
+- **Avoid/Defer**: High effort, low value (e.g., sensitive contract parsing)
+
+This prioritization framework enables alignment across business, IT, and compliance stakeholders while focusing resources on achievable early wins.
 
 ![AI Opportunity Prioritization Matrix](./AI_Opportunity_Prioritization_Matrix.png)
 
