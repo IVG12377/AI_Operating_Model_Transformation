@@ -30,7 +30,7 @@ This matrix defines role clarity for all key contributors using the RACI (Respon
 
 ## 🔄 Workstream Execution Tracker
 
-This tracker visualizes implementation progress by mapping out key workstreams, owners, timelines, and current status.
+This tracker visualizes implementation progress by mapping key workstreams to owners, target timelines, and status — supporting transparency and coordination.
 
 ![Workstream Tracker](./Workstream_Execution_Tracker.png)
 
@@ -41,17 +41,17 @@ This tracker visualizes implementation progress by mapping out key workstreams, 
 | File | Description |
 |------|-------------|
 | [`Implementation_Roadmap.md`](./Implementation_Roadmap.md) | Phase-by-phase breakdown of implementation milestones |
-| [`Delivery_Risks_and_Mitigations.md`](./Delivery_Risks_and_Mitigations.md) | Working risk log with active mitigation plans |
+| [`Delivery_Risks_and_Mitigations.md`](./Delivery_Risks_and_Mitigations.md) | Working risk log with active mitigation strategies |
 | [`Governance_Cadence.md`](./Governance_Cadence.md) | Weekly/monthly execution rhythm for delivery governance |
-| [`Implementation_Timeline_Mermaid.md`](./Implementation_Timeline_Mermaid.md) | Interactive timeline for Mermaid-compatible viewers |
+| [`Implementation_Timeline_Mermaid.md`](./Implementation_Timeline_Mermaid.md) | Interactive Mermaid-based timeline for advanced viewers |
 
 ---
 
 ## 🧠 Key Execution Principles
 
-- 🧭 **Phased Planning**: Clear stages reduce risk and allow faster iteration  
-- 👥 **Role Clarity**: RACI ensures decisions are made and acted on swiftly  
-- 🚦 **Tracking and Governance**: Dashboards and cadence drive alignment  
-- 🛡️ **Proactive Risk Management**: Risks are named, owned, and mitigated in real-time  
+- 🧭 **Phased Planning**: Clear, staged implementation reduces risk and accelerates learning  
+- 👥 **Role Clarity**: RACI ensures decisions are defined, owned, and acted on swiftly  
+- 🚦 **Tracking and Governance**: Dashboards and cadence create execution momentum  
+- 🛡️ **Proactive Risk Management**: Risks are visible, assigned, and actively mitigated  
 
-> 💡 This folder is designed to guide program managers, transformation leads, and executive sponsors through structured implementation. Files are presentation-ready and reusable across enterprise delivery contexts.
+> 💡 This folder is designed to support program managers, transformation leads, and executive sponsors in operationalizing the AI-enabled operating model. All materials are presentation-ready and scalable across enterprise delivery contexts.
