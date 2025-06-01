@@ -15,14 +15,14 @@ This phase defines how success is measured, monitored, and continuously improved
 
 ## 📊 Core KPIs
 
-| KPI | Description | Target |
-|-----|-------------|--------|
-| **Automation Coverage** | % of identified use cases automated | 70% in Year 1 |
-| **Cycle Time Reduction** | % reduction in process execution time | 30% |
-| **SLA Compliance** | % of tasks completed within SLA | 95% |
-| **AI Tool Adoption** | % of users using AI-enhanced workflows | 80% within 6 months |
-| **Value Tracked** | Estimated business impact (e.g., savings, hours) | $X million per use case |
-| **Sentiment Lift** | Change in user confidence and buy-in | +10% YoY |
+| KPI                   | Description                                 | Target                  |
+|------------------------|---------------------------------------------|--------------------------|
+| **Automation Coverage** | % of identified use cases automated         | 70% in Year 1            |
+| **Cycle Time Reduction** | % reduction in process execution time       | 30%                      |
+| **SLA Compliance**     | % of tasks completed within SLA             | 95%                      |
+| **AI Tool Adoption**   | % of users using AI-enhanced workflows      | 80% within 6 months      |
+| **Value Tracked**      | Estimated business impact (savings, hours)  | $X million per use case  |
+| **Sentiment Lift**     | Change in user confidence and buy-in        | +10% YoY                 |
 
 ---
 
@@ -43,11 +43,11 @@ This phase defines how success is measured, monitored, and continuously improved
 
 ## 📆 Reporting Cadence
 
-| Frequency | Audience | Tool | Purpose |
-|----------|----------|------|---------|
-| **Weekly** | Workstream Leads | Dashboard snapshot | Operational visibility |
-| **Monthly** | Executive Steering Committee | KPI scorecard + slides | Strategic insight + decisions |
-| **Quarterly** | Org-wide (optional) | All-hands summary | Culture reinforcement + momentum |
+| Frequency  | Audience                  | Tool                | Purpose                              |
+|------------|----------------------------|---------------------|--------------------------------------|
+| **Weekly** | Workstream Leads           | Dashboard snapshot  | Operational visibility               |
+| **Monthly**| Executive Steering Committee | KPI scorecard + slides | Strategic insight + decisions    |
+| **Quarterly**| Org-wide (optional)      | All-hands summary   | Culture reinforcement + momentum     |
 
 ---
 
@@ -65,9 +65,8 @@ This phase defines how success is measured, monitored, and continuously improved
 - [`KPI_Definitions.md`](./KPI_Definitions.md)  
 - [`Impact_Metrics_Table.xlsx`](./Impact_Metrics_Table.xlsx)  
 - [`Performance_Review_Cadence.md`](./Performance_Review_Cadence.md)  
-- [`Before and After KPI Comparison – AI Operating Model Transformation.png`](./Before%20and%20After%20KPI%20Comparison%20%E2%80%93%20AI%20Operating%20Model%20Transformation.png)
+- `Before and After KPI Comparison – AI Operating Model Transformation.png`  
 
 ---
 
 > 💡 *Value is not realized when AI goes live — it's realized when it becomes routine.*
-
