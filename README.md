@@ -1,12 +1,18 @@
-# 🚀 Operating Model Transformation with AI-Enabled Process Modernization
+# 🧠 AI Operating Model Transformation
 
-This portfolio project simulates a large-scale operating model transformation for a global professional services firm. It demonstrates how structured consulting methodology, stakeholder alignment, and targeted AI adoption can deliver measurable business outcomes.
+> 🧭 TL;DR: This GitHub simulates a real consulting engagement that redesigns an enterprise operating model using AI. Think Bain meets automation — with measurable ROI and structured delivery.
 
 ---
 
-## 🚩 Project Summary
+## 📌 Executive Summary
 
-The organization is facing inefficiencies, legacy workflows, and siloed execution. This initiative reimagines how work gets done by modernizing processes, introducing intelligent automation, and enabling data-informed decision-making. AI is used as a **value accelerator** — not the centerpiece — within a clearly scoped transformation effort.
+This repository simulates a high-impact consulting engagement focused on transforming an organization’s operating model through **AI integration**. It demonstrates structured methodologies for stakeholder alignment, current-state analysis, automation opportunity identification, solution design, implementation planning, and value realization.
+
+AI is treated as a **value accelerator** — embedded within a broader strategic transformation that improves speed, decision-making, and execution quality.
+
+---
+
+<img src="./AI_Operating_Model_Visual.png" alt="AI Operating Model Overview" width="800">
 
 ---
 
@@ -15,37 +21,51 @@ The organization is facing inefficiencies, legacy workflows, and siloed executio
 - Redesign the operating model for speed, clarity, and accountability  
 - Identify automation opportunities with real ROI  
 - Align stakeholders through structured influence mapping  
+- Introduce data-informed decision-making at scale  
 - Create a change roadmap balancing quick wins and long-term value  
-- Define KPIs to track measurable impact across operations  
-- Connect strategy to measurable delivery across all workstreams
+- Define KPIs to track measurable impact and operational excellence  
 
 ---
 
-## 🧭 Methodology
+## 🗺️ Project Methodology
 
-The project is structured into **11 modular folders**, each representing a phase of a real-world consulting engagement:
+This project is organized like a real-world consulting engagement. Each folder reflects a specific transformation phase, from discovery to delivery:
+
+| Folder | Title | Description |
+|--------|-------|-------------|
+| `00_Overview/` | Project Overview | Executive summary, methodology, and engagement structure |
+| `01_Stakeholder_Alignment/` | Stakeholder Mapping & Engagement | Influence mapping, comms plans, stakeholder strategies |
+| `02_Current_State/` | Process Analysis | Workflows, bottlenecks, root cause discovery |
+| `03_Opportunity_Analysis/` | AI/Automation Value Targeting | Prioritization, feasibility, and use case development |
+| `04_Data_Analysis/` | Data-Driven Insight Generation | Exploratory data visuals, trends, and readiness signals |
+| `05_Design_Solutions/` | Solution Sketches & Frameworks | Journey maps, trigger logic, “before vs. after” models |
+| `06_Implementation/` | Roadmap & Change Strategy | Timeline, RACI matrix, risks, change plans |
+| `07_Strategic_Recommendations/` | Recommendation Narrative | Executive brief and synthesized final guidance |
+| `08_Impact_Measurement/` | KPIs & Value Realization | Metrics, dashboards, and performance tracking |
+| `09_AI_Tools/` | Automation & Experiment Log | Prompt libraries, low-code solutions, test outputs |
+| `10_Business_Case/` | Financial Model & ROI | Cost-benefit logic, investment returns, payback periods |
+| `11_Project_Decision_Log/` | Reasoning & Tradeoffs | Decision matrix, assumptions, rationale audit trail |
 
 ---
 
-## 📁 Folder Structure
+## 📂 Key Deliverables
 
-| Folder | Title                       | Description                                                              |
-|--------|-----------------------------|--------------------------------------------------------------------------|
-| `00_Overview` | Project Overview         | Problem statement, scope, objectives, methodology                        |
-| `01_Stakeholder_Alignment` | Stakeholder Mapping & Engagement | Influence mapping, comms planning                                        |
-| `02_Current_State` | Process Analysis          | Workflows, pain points, root cause discovery                             |
-| `03_Opportunity_Analysis` | AI/Automation Value Targeting | Prioritization, feasibility, impact                                      |
-| `04_Data_Analysis` | Data-Driven Insight Generation | Exploratory charts and trends tied to process gaps or automation triggers |
-| `05_Design_Solutions` | Solution Sketches & Frameworks | Concepts, prototypes, decision frameworks                                |
-| `06_Implementation` | Roadmap & Change Strategy | Timeline, RACI, risks, change approach                                   |
-| `07_Strategic_Recommendations` | Recommendation Narrative     | Final recommendations synthesized from analysis and stakeholder context  |
-| `08_Impact_Measurement` | KPIs & Value Realization   | Metrics, dashboards, performance tracking                                |
-| `09_AI_Tools` | Automation & Experiment Log | Low-code/AI tools, prompt strategies, automation testing                 |
-| `10_Business_Case` | Financial Model & ROI       | Assumptions, payback periods, investment vs. impact                      |
-| `11_Project_Decision_Log` | Reasoning & Tradeoffs       | Key decisions and rationale throughout the engagement                    |
+- 📈 Visual frameworks and automation journey maps  
+- 📊 Strategic dashboards and prioritization matrices  
+- 🧭 RACI ownership model and implementation timeline  
+- 📄 [Final Strategic Recommendations Deck](./07_Strategic_Recommendations/Strategic_Recommendations_Briefing_Deck.pdf)  
+- ⚙️ Low-code tools, prompt tests, and experimental automations
+
+---
+
+## 💼 Ideal Use Cases
+
+- **Hiring managers** evaluating candidates for strategic, transformation, or analytics-driven roles  
+- **Consultants or leaders** running AI-powered operating model redesigns  
+- **Peers or mentors** looking for case-based storytelling and structured problem solving  
 
 ---
 
 ## 🛡 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
