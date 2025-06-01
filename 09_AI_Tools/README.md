@@ -1,49 +1,57 @@
-# 🤖 Folder 07 – AI Tools
+# 🤖 09_AI_Tools – Applied AI in Operating Model Transformation
 
-This folder explores how artificial intelligence (AI) can be practically applied within the context of the operating model transformation. It includes applied use cases, prompt strategies, and select outputs to demonstrate value-added automation and insight.
-
----
-
-## 🧠 Folder Purpose
-
-This folder is designed to:
-
-- Score and visualize AI-fit opportunities
-- Support executive communication and pilot planning
-- Tie analytics to action in your operating model transformation
+This folder showcases the practical application of AI tools within the operating model transformation. It includes a prioritization framework, visual assets, and a mini-deck to guide AI tool selection and implementation.
 
 ---
 
-## 📂 Folder Contents
+## 🧰 AI Tool Prioritization Framework
 
-| File                                      | Description                                                                  |
-|-------------------------------------------|------------------------------------------------------------------------------|
-| `AI_Fit_Checklist_With_Scoring_and_Folders.xlsx` | Excel-based scoring tool with impact, effort, maturity, ROI & GitHub references |
-| `AI_Fit_Summary_MiniDeck.pptx`            | 3-slide executive deck including Excel-based visual (Slide 2: Priority Matrix) |
-| `README.md`                               | This file, with guidance on usage and project integration                    |
+To effectively integrate AI into business processes, we utilize a structured framework that assesses potential tools based on:
+
+- **Impact**: Potential value addition
+- **Effort**: Implementation complexity
+- **Maturity**: Readiness level
+- **ROI**: Expected return on investment
+
+This framework aids in identifying high-value, low-effort AI opportunities.
 
 ---
 
-## ✅ How to Use
+## 📊 Visual Representation
 
-### 1. Evaluate & Prioritize
-- Open the Excel file to assess each opportunity using defined AI fit criteria
-- Columns include: maturity, data availability, compliance, impact, effort, and scoring
+![AI Opportunity Visual](./ai-opportunity%20visual.png)
 
-### 2. Communicate Visually
-- Use Slide 2 of the `MiniDeck` to show the **AI Fit Priority Matrix** — a bubble chart visualizing impact vs. effort
-- Use the deck for executive briefings, strategic framing, and linking back to GitHub workstreams
+*This visual illustrates the prioritization matrix, highlighting AI opportunities across various business functions.*
 
-### 3. Link to Execution
-- Feed top-scoring opportunities into Folder 05 (`Strategic_Recommendations`)
-- Use checklist logic and scoring to define dashboards and KPIs in Folder 06 (`Execution_Plan`)
+---
+
+## 📄 Key Artifacts
+
+- **AI Fit Summary MiniDeck**: A concise presentation outlining AI tool selection and prioritization.
+- **AI Fit Priority Chart**: An Excel sheet detailing the scoring of AI tools based on the prioritization framework.
 
 ---
 
 ## 🔗 Related Folders
 
-- 📁 [03_Opportunity_Analysis](../03_Opportunity_Analysis) – Source of the opportunity list and scoring model
-- 📁 [05_Strategic_Recommendations](../05_Strategic_Recommendations) – Where AI-fit priorities are turned into action
-- 📁 [06_Execution_Plan](../06_Execution_Plan) – Dashboard KPIs and sequencing tied to pilot rollout
+- **03_Opportunity_Analysis**: Identifies areas where AI can add value.
+- **05_Design_Solutions**: Details the design of AI-integrated solutions.
+- **06_Implementation**: Outlines the implementation roadmap for AI tools.
 
+---
 
+## 🧠 Strategic Insights
+
+Integrating AI tools requires careful consideration of organizational readiness, data quality, and change management. It's essential to align AI initiatives with business objectives and ensure stakeholder buy-in for successful adoption.
+
+---
+
+## 📂 Folder Structure
+
+- `AI_Fit_Summary_MiniDeck.pptx`: Presentation deck summarizing AI tool prioritization.
+- `AI_Fit_Priority_Chart.xlsx`: Excel sheet with detailed scoring of AI tools.
+- `ai-opportunity visual.png`: Visual representation of AI opportunities.
+
+---
+
+*For further details on AI tool integration and best practices, refer to the resources provided in this folder.*
