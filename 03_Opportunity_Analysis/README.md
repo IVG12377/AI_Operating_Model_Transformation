@@ -6,8 +6,8 @@ This folder evaluates and prioritizes AI use cases based on their potential busi
 
 ## 📌 Purpose
 
-- Identify high-value areas for AI integration
-- Evaluate technical feasibility and business impact
+- Identify high-value areas for AI integration  
+- Evaluate technical feasibility and business impact  
 - Prioritize use cases that align with enterprise strategy
 
 ---
@@ -21,11 +21,19 @@ This folder evaluates and prioritizes AI use cases based on their potential busi
 
 ---
 
+## 📊 AI Opportunity Prioritization Matrix
+
+The following visual maps the AI use cases across business impact and implementation feasibility:
+
+![AI Opportunity Prioritization Matrix](./AI_Opportunity_Prioritization_Matrix.png)
+
+---
+
 ## 🧠 AI Use Cases Identified
 
-- Invoice matching automation
-- Email triage and routing
-- Document classification
+- Invoice matching automation  
+- Email triage and routing  
+- Document classification  
 - Predictive customer support
 
 ---
