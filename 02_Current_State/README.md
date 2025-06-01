@@ -6,8 +6,8 @@ This folder captures the baseline analysis of the organization’s current opera
 
 ## 📌 Purpose
 
-- Establish a shared understanding of existing business processes
-- Identify inefficiencies, redundancies, and handoff issues
+- Establish a shared understanding of existing business processes  
+- Identify inefficiencies, redundancies, and handoff issues  
 - Provide a diagnostic foundation for AI opportunity discovery
 
 ---
@@ -16,8 +16,16 @@ This folder captures the baseline analysis of the organization’s current opera
 
 | File | Description |
 |------|-------------|
-| `Workflow_Swimlane.png` | Visual process map of current state across functions |
+| `Client_Onboarding_Workflow.png` | Visual process map of current state across functions |
 | `README.md` | This documentation file |
+
+---
+
+## 🗺️ Current Workflow Visual
+
+The following swimlane diagram illustrates the cross-functional process flow as captured during the current state assessment:
+
+![Current Workflow Swimlane](./Client_Onboarding_Workflow.png)
 
 ---
 
@@ -29,9 +37,9 @@ This phase documented the end-to-end operations across departments, including HR
 
 ## ❗ Operational Pain Points
 
-- Excessive manual handoffs between teams
-- Redundant data entry across disconnected systems
-- Delays in approval workflows due to unclear ownership
+- Excessive manual handoffs between teams  
+- Redundant data entry across disconnected systems  
+- Delays in approval workflows due to unclear ownership  
 - Limited visibility into task status and completion
 
 These challenges directly informed AI use case selection in Folder `03_Opportunity_Analysis`.
@@ -42,9 +50,8 @@ These challenges directly informed AI use case selection in Folder `03_Opportuni
 
 Relevant project decisions based on this phase:
 
-- **D002:** Used swimlane mapping to identify friction and inform opportunity ranking
-
-Refer to the [Project Decision Log](../11_Project_Decision_Log/README.md) for full context.
+- **D002:** Used swimlane mapping to identify friction and inform opportunity ranking  
+  → See [Project Decision Log](../11_Project_Decision_Log/README.md) for rationale
 
 ---
 
