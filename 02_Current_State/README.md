@@ -1,52 +1,53 @@
-# 🧩 02_Current_State
+# 🏗️ 02_Current_State
 
-This folder documents the baseline analysis of the organization's current operating model. It identifies manual handoffs, process delays, and fragmentation points across core functions — setting the foundation for automation, data integration, and future-state design.
-
----
-
-## 🔍 Folder Contents
-
-| File                                  | Description                                                              |
-|---------------------------------------|--------------------------------------------------------------------------|
-| `Process_Map.md`                      | End-to-end process breakdowns by function                                |
-| `Current_State_Summary.md`           | Phase wrap-up with observations and insights                             |
-| `templates/Lifecycle_Workflow.xlsx`  | HR lifecycle assessment with automation potential scoring                |
-| `Client_Onboarding_Workflow.png`     | Visual of the onboarding flow and stakeholder pain points                |
+This folder captures the baseline analysis of the organization’s current operating model. It includes workflow diagrams, manual process identification, and key constraints observed during the discovery phase.
 
 ---
 
-## 🧩 Client Onboarding Workflow
+## 📌 Purpose
 
-This diagram shows the current-state client onboarding flow, spanning Hiring, HR, Compliance, IT, and Operations. It reveals **delays, manual dependencies, and ownership ambiguity** — all of which contribute to poor Day 1 readiness.
-
-By visualizing these breakdowns, the team can more easily:
-
-- Prioritize automation (e.g., IT provisioning)
-- Highlight gaps in compliance readiness
-- Engage functional leaders with data-backed insights
-
-This graphic also serves as a tool for stakeholder workshops and readiness discussions.
-
-![Client Onboarding Workflow](./Client_Onboarding_Workflow.png)
+- Establish a shared understanding of existing business processes
+- Identify inefficiencies, redundancies, and handoff issues
+- Provide a diagnostic foundation for AI opportunity discovery
 
 ---
 
-## 🧠 Key Insights
+## 📁 Key Artifacts
 
-- Onboarding spans 5+ teams with inconsistent ownership of key steps
-- Redundant systems and unclear handoffs lead to approval delays
-- Lack of workflow visibility undermines coordination
-- Automation opportunities are clustered around high-frequency, low-complexity steps
-
----
-
-## 🛠️ How to Use
-
-- Use `Process_Map.md` to explore departmental workflows and bottlenecks
-- Reference `Client_Onboarding_Workflow.png` for executive discussion and prioritization
-- Use `Lifecycle_Workflow.xlsx` to evaluate automation potential by task complexity
-- Review `Current_State_Summary.md` for key findings and phase validation
+| File | Description |
+|------|-------------|
+| `Workflow_Swimlane.png` | Visual process map of current state across functions |
+| `README.md` | This documentation file |
 
 ---
 
-**Last updated:** May 2025
+## 🧮 Process Overview
+
+This phase documented the end-to-end operations across departments, including HR, Finance, and Customer Support. Swimlane diagrams helped identify manual dependencies, data entry duplication, and lack of integration between systems.
+
+---
+
+## ❗ Operational Pain Points
+
+- Excessive manual handoffs between teams
+- Redundant data entry across disconnected systems
+- Delays in approval workflows due to unclear ownership
+- Limited visibility into task status and completion
+
+These challenges directly informed AI use case selection in Folder `03_Opportunity_Analysis`.
+
+---
+
+## 🔁 Connected Decisions
+
+Relevant project decisions based on this phase:
+
+- **D002:** Used swimlane mapping to identify friction and inform opportunity ranking
+
+Refer to the [Project Decision Log](../11_Project_Decision_Log/README.md) for full context.
+
+---
+
+## ✅ Outcome
+
+This current-state assessment created the foundation for targeted AI interventions and supported stakeholder consensus around key inefficiencies ripe for transformation.
