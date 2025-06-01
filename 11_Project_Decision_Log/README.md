@@ -10,20 +10,20 @@ The log reflects a disciplined consulting approach—where structured reasoning,
 
 This log was created to:
 
-- Provide a transparent audit trail of pivotal decisions
-- Document trade-offs, rationale, and role-based ownership
-- Support executive storytelling, PMO reporting, and future-phase continuity
-- Enable rapid onboarding of new stakeholders and consulting teams
+- Provide a transparent audit trail of pivotal decisions  
+- Document trade-offs, rationale, and role-based ownership  
+- Support executive storytelling, PMO reporting, and future-phase continuity  
+- Enable rapid onboarding of new stakeholders and consulting teams  
 
 ---
 
 ## 📁 Folder Contents
 
-| File | Description |
-|------|-------------|
-| `Decision_Log.csv` | Tabular record of strategic decisions with rationale, impact, and ownership |
+| File                             | Description                                                              |
+|----------------------------------|--------------------------------------------------------------------------|
+| `Decision_Log.csv`              | Tabular record of strategic decisions with rationale, impact, and ownership |
 | `Strategic_Tradeoffs_Summary.png` | Visual snapshot of trade-offs and decision flow across the project lifecycle |
-| `README.md` | This documentation file |
+| `README.md`                     | This documentation file                                                  |
 
 ---
 
@@ -39,10 +39,10 @@ Below is a visual summary of the major decisions and trade-offs made throughout 
 
 Use this log to:
 
-- Anchor retrospectives, executive briefings, and PMO checkpoints
-- Provide clarity on why key paths were chosen over alternatives
-- Support future iterations or scale-up phases with traceable context
-- Reinforce a structured and intentional approach to transformation
+- Anchor retrospectives, executive briefings, and PMO checkpoints  
+- Provide clarity on why key paths were chosen over alternatives  
+- Support future iterations or scale-up phases with traceable context  
+- Reinforce a structured and intentional approach to transformation  
 
 ---
 
