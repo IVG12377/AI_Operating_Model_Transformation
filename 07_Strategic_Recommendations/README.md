@@ -34,7 +34,7 @@ This transformation will:
 - 🛡️ Strengthen compliance and risk posture  
 - 📣 Enable cultural readiness for AI adoption  
 
-➡️ [Read Full Summary](./Executive_Summary.md)
+➡️ [Read full summary](./Executive_Summary.md)
 
 ---
 
@@ -57,7 +57,7 @@ Phased 18-month plan to implement AI across workflows, systems, and teams.
 
 Evaluates organizational readiness across six dimensions and five levels — from Ad Hoc to Optimized.
 
-➡️ [Read Full Model](./AI_Maturity_Model.md)
+➡️ [View full model](./AI_Maturity_Model.md)
 
 ---
 
@@ -67,11 +67,11 @@ Establish a centralized capability to scale AI responsibly across business units
 
 **Includes:**
 
-- Governance + Risk Management  
+- Governance and risk management  
 - Talent enablement and reusable tools  
 - Innovation and delivery support  
 
-➡️ [Framework Details](./AI_Center_of_Excellence_Framework.md)
+➡️ [See framework](./AI_Center_of_Excellence_Framework.md)
 
 ---
 
@@ -85,7 +85,7 @@ A phased change playbook supporting stakeholder engagement, training, and resist
 - Adoption and sentiment metrics  
 - Embedded into roadmap phases  
 
-➡️ [Full Strategy](./Change_Management_Strategy.md)
+➡️ [View strategy](./Change_Management_Strategy.md)
 
 ---
 
@@ -97,10 +97,10 @@ Guiding principles and controls to scale AI safely:
 |-------------------|-----------------------------------------------|
 | Data Privacy      | Masking, encryption, access control           |
 | Bias & Fairness   | Diverse training sets, audit cycles           |
-| Model Drift       | Monitoring + retraining gates                 |
+| Model Drift       | Monitoring and retraining gates               |
 | AI Misuse         | Role-based access, use logging                |
 
-➡️ [Policy Overview](./Governance_and_Risk_Management.md)
+➡️ [Read policy overview](./Governance_and_Risk_Management.md)
 
 ---
 
@@ -112,7 +112,7 @@ Highlights role realignment and cultural transformation:
 - Teams restructured around data and AI workflows  
 - Cultural shift to proactive, insight-driven service delivery  
 
-➡️ [Impact Summary](./Organizational_Impact_Assessment.md)
+➡️ [Read assessment](./Organizational_Impact_Assessment.md)
 
 ---
 
