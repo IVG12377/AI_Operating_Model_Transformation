@@ -1,4 +1,4 @@
-# 🧾 Scenario_Assumptions.md
+# 📄 ROI_Model_and_Assumptions.md
 
 This file documents the assumptions behind the ROI model for the AI-enabled operating model transformation. It outlines inputs across three financial planning scenarios: **Conservative**, **Expected**, and **Best Case** — providing clarity into cost, value, and adoption drivers.
 
