@@ -1,125 +1,70 @@
-# 🧠 AI Operating Model – Strategic Framework
+# 📊 04_Data_Analysis
 
-This framework outlines what it takes to build a modern, scalable operating model that can support AI—not just today, but sustainably as the organization grows, evolves, and matures in its AI capability.
-
-This isn’t theoretical. It’s a structure designed for real-world execution.
+This folder explores the dataset used to support AI opportunity validation. It includes data quality checks, visualization outputs, and insights generated to inform solution design and impact measurement.
 
 ---
 
-## 🔍 What This Is
+## 📌 Purpose
 
-This is the foundation for building repeatable, responsible, business-aligned AI delivery inside an organization. It's the connective tissue between AI initiatives and operating reality.
-
-You can have all the data and algorithms in the world—but without people, process, governance, and clear ownership, nothing moves. This model solves that gap.
-
----
-
-## 🚀 Why It Matters
-
-- Most organizations don’t fail because of AI itself.
-- They fail because they don’t have the **operating model** to scale it.
-
-This framework helps align:
-- Business value with delivery
-- Innovation with control
-- Vision with execution
+- Assess data readiness for AI modeling  
+- Explore trends, patterns, and gaps within the available data  
+- Derive early insights to guide business case development and MVP focus
 
 ---
 
-## ⚙️ The 5 Pillars of a Scalable AI Operating Model
+## 📁 Key Artifacts
 
-### 1. 👥 People & Roles
-
-AI doesn’t deliver itself. You need clarity around ownership, decision-making, and translation across tech and business.
-
-| Role Type       | Description |
-|------------------|-------------|
-| AI Product Owner | Owns use case value delivery |
-| AI Translator    | Bridges business and technical domains |
-| Data Lead        | Ensures access, quality, and sourcing |
-| Risk/Gov Lead    | Applies policy, compliance, ethics |
-| Exec Sponsor     | Clears the path and funds initiatives |
+| File | Description |
+|------|-------------|
+| `EDA_Attrition_Analysis.ipynb` | Jupyter Notebook with data exploration and visualizations |
+| `AI_Attrition_Trends.png` | Bar chart showing attrition across high-risk segments |
+| `Correlation_Heatmap.png` | Feature correlation map identifying key predictors |
+| `Income_vs_Tenure_Scatter.png` | Scatterplot visualizing key risk clusters |
+| `README.md` | This documentation file |
 
 ---
 
-### 2. 🔄 Process
+## 📈 Key Insights
 
-Think repeatable—not experimental. You need a consistent way to intake, assess, and deliver AI initiatives.
-
-Key processes:
-- Use case intake and evaluation
-- Feasibility and value scoring
-- MVP delivery cycles
-- Governance checkpoints
-- Operational handoff and scaling
+- Attrition was highest among mid-tenure employees in non-managerial roles  
+- Monthly income and overtime were strong predictors of resignation risk  
+- Employees with fewer years since last promotion showed higher churn likelihood  
+- Certain job roles exhibited consistently higher turnover despite compensation parity
 
 ---
 
-### 3. 🧰 Technology Stack
+## 🔐 Data Governance Considerations
 
-Your tools should enable—not complicate—the AI lifecycle. That means:
+To ensure responsible AI development, the following governance factors were addressed:
 
-- Cloud-native infrastructure (AWS, Azure, GCP)
-- Pipeline-ready data platforms
-- Open, modular AI tooling (not vendor lock-in)
-- CI/CD and MLOps frameworks (for scale and speed)
-
-Tech decisions should map to flexibility, not just flash.
+- **Data Integrity:** All data used was synthetic and clean; no PII present  
+- **Bias Assessment:** Features were reviewed for potential bias and fairness risks  
+- **Documentation:** Variable definitions and data lineage were tracked in code comments  
+- **Access Control:** Analysis was conducted in a secured environment (local Jupyter)
 
 ---
 
-### 4. 📊 Data Management
+## 📚 Data Source & Assumptions
 
-Data is fuel. But not all data is good, accessible, or usable.
-
-You need:
-- Clear data owners and stewards
-- Defined pipelines and access rules
-- Classification and sensitivity handling
-- Pre-labeling and annotation support for ML
-
-And above all—**real governance** over what goes in and out.
+- A mock HR attrition dataset was used to simulate real-world organizational data  
+- Data fields included: age, department, income, tenure, overtime, job level, and attrition outcome  
+- Assumptions: Data reflects one year of observations across multiple functions
 
 ---
 
-### 5. 🛡️ Governance & Metrics
+## 🖼️ Visual Snapshots
 
-You can’t scale AI without trust. That means:
-- Guardrails
-- Auditability
-- KPIs that link model performance to business impact
+### Attrition by Segment
+![Attrition by Risk Segment](./AI_Attrition_Trends.png)
 
-Governance doesn’t slow innovation—it **enables confidence**.
+### Feature Correlation Map
+![Correlation Heatmap](./Correlation_Heatmap.png)
 
-Track:
-- Adoption and usage
-- Risk thresholds
-- Data drift and model decay
-- Alignment to measurable KPIs (efficiency, accuracy, etc.)
+### Income vs Tenure Scatter
+![Income vs. Tenure](./Income_vs_Tenure_Scatter.png)
 
 ---
 
-## 🧠 How to Use This
+## ✅ Outcome
 
-Use this model to:
-- Align leadership on **what “AI-ready” really means**
-- Score your current state vs future state
-- Build roles and processes into project planning
-- Structure CoE and intake governance without overcomplicating it
-
-This is your foundation. Everything else (tools, dashboards, even models) lives on top of it.
-
----
-
----
-
-## 🖼️ Visual Framework
-
-The graphic below summarizes the five pillars of a scalable, AI-enabled operating model. Each pillar reinforces the others, providing the structural backbone to deliver AI that is valuable, trusted, and repeatable.
-
-![AI Operating Model Framework](./AI_Operating_Model_Framework.png)
-
-
-A matching visual diagram and brief summary slide deck are coming next.
-
-> This document is part of Folder `04_Design_Solutions` in the AI Operating Model Transformation project.
+This phase confirmed that sufficient data structure, volume, and signal strength were present to proceed with AI solution design for attrition and workforce planning. Insights from this analysis directly influenced solution prioritization and model feature selection.
