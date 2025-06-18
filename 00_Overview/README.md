@@ -1,3 +1,63 @@
+# 📋 00_Overview | Project Foundation
+
+> **Establishing the framework and governance for AI operating model transformation**
+
+This folder contains the foundational documents that simulate how a consulting team would initiate and structure an enterprise AI transformation engagement.
+
+---
+
+## 📌 Phase Purpose
+
+The **Overview phase** establishes the project foundation—defining scope, methodology, governance, and success criteria that guide the entire transformation simulation.
+
+**Consulting Parallel**: *This mirrors the "Project Kickoff" phase where consultants establish engagement parameters, stakeholder alignment, and delivery frameworks.*
+
+---
+
+## 📁 Folder Contents
+
+| Document | Purpose | Consulting Equivalent |
+|----------|---------|----------------------|
+| **[Project_Charter.md](./Project_Charter.md)** | Formal engagement scope and objectives | SOW (Statement of Work) |
+| **[Methodology_Framework.md](./Methodology_Framework.md)** | Transformation approach and methodology | Consulting methodology deck |
+| **[Executive_Brief.md](./Executive_Brief.md)** | High-level project summary for leadership | Executive summary slide |
+| **AI_Operating_Model_Framework.png** | Visual framework diagram | Strategy framework visual |
+| **[Engagement_Timeline.md](./Engagement_Timeline.md)** | Master timeline with key milestones | Project plan and timeline |
+
+---
+
+## 🎯 Phase Objectives
+
+### **Strategic Foundation**
+- Define clear transformation vision and success criteria
+- Establish governance structure and decision rights
+- Align stakeholders on approach and expectations
+
+### **Methodology Framework**
+- Document structured approach to AI transformation
+- Define phase gates and deliverable standards
+- Create measurement and tracking mechanisms
+
+### **Engagement Setup**
+- Establish project governance and escalation paths
+- Define communication protocols and stakeholder touchpoints
+- Create risk management and mitigation strategies
+
+---
+
+## 🏗️ Consulting Methodology
+
+Our approach follows a **structured transformation methodology** used by leading strategy consulting firms:
+
+```mermaid
+graph LR
+    A[Foundation<br/>Setup] --> B[Discovery<br/>Analysis]
+    B --> C[Design<br/>Solutions]
+    C --> D[Implementation<br/>Execution]
+    D --> E[Value<br/>Realization]
+
+    style A fill:#e1f5fe
+    style E fill:#e8f5e8
 # 📋 Project Overview
 
 > **Foundation phase of the AI Operating Model Transformation engagement**
