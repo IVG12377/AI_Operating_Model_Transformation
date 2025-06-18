@@ -79,6 +79,87 @@ Consulting-led transformation with internal capability building
 ---
 
 ## 👥 Stakeholder Structure
+# 📋 Project Charter: AI Operating Model Transformation
+
+**Document Version**: 1.0  
+**Date**: June 2025  
+**Status**: Approved  
+**Distribution**: Executive Leadership, Project Team, Key Stakeholders
+
+---
+
+## 🎯 Executive Summary
+
+This charter formally authorizes the **AI Operating Model Transformation** initiative—a comprehensive strategic program designed to redesign enterprise operations through artificial intelligence integration. The project will deliver measurable business value through process optimization, enhanced decision-making capabilities, and sustainable competitive advantage.
+
+**Expected Outcome**: A transformed operating model that leverages AI to accelerate growth, reduce costs, and improve customer experience while maintaining operational resilience and risk controls.
+
+---
+
+## 📌 Project Definition
+
+### **Project Name**
+AI Operating Model Transformation Initiative
+
+### **Project Type**
+Strategic transformation program with operational implementation
+
+### **Engagement Model**
+Consulting-led transformation with internal capability building
+
+### **Duration**
+16 weeks (4 months) from charter approval to strategic recommendations
+
+---
+
+## 🎯 Business Case & Objectives
+
+### **Strategic Rationale**
+- **Market Pressure**: Increasing competitive pressure requiring faster, more agile operations
+- **Technology Opportunity**: Mature AI capabilities now available for enterprise deployment
+- **Operational Inefficiency**: Manual processes creating bottlenecks and limiting scalability
+- **Customer Expectations**: Demand for personalized, real-time service delivery
+
+### **Primary Objectives**
+1. **Operational Excellence**: Reduce process cycle times by 30–50% through intelligent automation  
+2. **Decision Acceleration**: Improve decision-making speed and quality with AI-powered insights  
+3. **Cost Optimization**: Achieve 15–25% operational cost reduction through process redesign  
+4. **Customer Experience**: Enhance satisfaction scores by 40%+ through personalized service  
+5. **Competitive Advantage**: Establish sustainable differentiation through AI-enabled capabilities
+
+### **Success Criteria**
+- **Financial**: $2.5M+ annual cost savings with 18-month payback period  
+- **Operational**: 40%+ improvement in key process efficiency metrics  
+- **Strategic**: AI maturity advancement from Level 2 to Level 4 (industry benchmarks)  
+- **Stakeholder**: 85%+ employee adoption rate within 6 months of implementation
+
+---
+
+## 🏗️ Project Scope
+
+### **In Scope**
+- **Process Analysis**: End-to-end current state mapping and optimization opportunities  
+- **Technology Assessment**: AI/ML capability evaluation and integration planning  
+- **Organizational Design**: Role redefinition and skill development requirements  
+- **Change Management**: Stakeholder engagement and adoption strategy  
+- **Governance Framework**: AI ethics, risk management, and compliance protocols  
+- **Implementation Roadmap**: Phased delivery plan with quick wins and long-term vision
+
+### **Out of Scope**
+- **Technology Implementation**: Actual system deployment and integration (follow-on phase)  
+- **Data Migration**: Legacy system data conversion and cleansing  
+- **Vendor Selection**: Specific technology vendor evaluation and procurement  
+- **Regulatory Approval**: Legal and regulatory compliance beyond framework definition
+
+### **Key Assumptions**
+- Executive leadership commitment and resource availability maintained throughout engagement  
+- Access to required business stakeholders and subject matter experts  
+- Current technology infrastructure capable of supporting AI integration  
+- No major organizational restructuring during project timeline
+
+---
+
+## 👥 Stakeholder Structure
 
 ### **Executive Sponsors**
 - **Chief Executive Officer**: Overall accountability and strategic alignment  
