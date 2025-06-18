@@ -1,103 +1,166 @@
-# 🛠️ 05_Design_Solutions
 
-This folder contains solution design artifacts supporting the proposed AI-enabled operating model transformation. These visual frameworks translate the vision into tangible workflows, decision logic, and experience enhancements — all tailored to accelerate execution and drive measurable business outcomes.
-
----
-
-## 📂 Table of Contents
-- [🔍 Executive Summary](#-executive-summary)
-- [📁 Visual Artifact Overview](#-visual-artifact-overview)
-- [🔄 Automation Trigger Flow](#-automation-trigger-flow)
-- [🧾 Before and After Comparison](#-before-and-after-comparison)
-- [🏊 Swimlane Diagram: Credit Approval](#-swimlane-diagram-credit-approval)
-- [👣 User Journey Map](#-user-journey-map)
-- [📌 Supporting Files](#-supporting-files)
-- [✏️ Solution Sketches](#️-solution-sketches)
-
----
-
-## 🔍 Executive Summary
-
-The following designs reflect the "future state" vision across key HR and credit workflows. These solutions combine automation, accountability, and service-level enforcement into visual blueprints for transformation. Each artifact is intended for stakeholder alignment and solution validation during the design and implementation phases.
-
----
-
-## 📁 Visual Artifact Overview
-
-| Artifact | Description | Preview |
-|---------|-------------|---------|
-| **Automation Trigger Flow** | AI escalates onboarding tasks after 5 days of inactivity | ![Automation Trigger Flow](./Automation_Trigger_Flow.png) |
-| **Before/After Comparison** | Shows manual vs. automated onboarding escalation | ![Before/After Comparison](./Before_After_Comparison_Table.png) |
-| **Swimlane Diagram** | Visualizes cross-functional credit approval workflow | ![Swimlane Diagram](./Swimlane_Onboarding_Credit_Approval.png) |
-| **User Journey Map** | Experience impact of manual vs. AI-enhanced onboarding | ![User Journey Map](./User_Journey_Map_Onboarding.png) |
-
----
-
-## 🔄 Automation Trigger Flow
-
-This diagram models an AI notification logic for HR onboarding SLAs. Tasks that remain incomplete beyond 5 days automatically trigger alerts to the responsible HR contact.
-
-**Highlights:**
-- Improves visibility into delayed workflows
-- Drives accountability through auto-escalation
-- Ensures SLA compliance without manual chasing
+**Key Features:**
+- **Daily risk scoring** using the features identified in data analysis  
+- **Tiered alert system** (Low/Medium/High risk levels)  
+- **Automated intervention triggers** for high-risk employees  
+- **Manager dashboard integration** with actionable insights  
 
 ---
 
 ## 🧾 Before and After Comparison
 
-This visual contrasts the manual onboarding escalation process with its AI-enhanced alternative.
+### **BEFORE: Reactive HR Approach**
 
-**Key Differences:**
-- Manual version lacks structure or ownership
-- AI introduces proactive tracking and alert triggers
-- Simplifies governance with automated routing
+| Process Component | Current State | Pain Points |
+|-------------------|---------------|-------------|
+| **Attrition Detection** | Exit interviews only | Too late – employee already decided |
+| **Risk Assessment** | Annual reviews | Infrequent, subjective, inconsistent |
+| **Intervention** | Ad-hoc conversations | No systematic approach |
+| **Manager Awareness** | Self-reported issues | Managers miss early warning signs |
+| **Data Usage** | Spreadsheet analysis | Manual, time-consuming, limited insights |
+
+### **AFTER: AI-Powered Proactive System**
+
+| Process Component | Future State | Business Benefits |
+|-------------------|--------------|-------------------|
+| **Attrition Detection** | Predictive risk scoring | 3–6 months early warning |
+| **Risk Assessment** | Daily ML predictions | Objective, data-driven, comprehensive |
+| **Intervention** | Automated workflows | Systematic, timely, personalized |
+| **Manager Awareness** | Real-time dashboards | Immediate visibility and guidance |
+| **Data Usage** | Integrated analytics | Automated insights, continuous learning |
+
+**Expected Outcomes:**
+- **20% reduction** in voluntary turnover  
+- **$2.1M annual savings** in replacement costs  
+- **85% accuracy** in risk prediction  
+- **4:1 ROI** on system investment  
 
 ---
 
-## 🏊 Swimlane Diagram: Credit Approval
+## 🏊 Swimlane Diagram: Retention Intervention
 
-This swimlane outlines the step-by-step flow for onboarding credit approvals, showing how responsibility is distributed across roles.
+### **Stakeholders:**
+- **Employee** (at-risk individual)  
+- **Direct Manager** (first line of intervention)  
+- **HR Business Partner** (escalation and support)  
+- **AI System** (monitoring and alerts)  
 
-**Departments Included:**
-- Customer
-- Sales
-- Management
-- Credit Department
+### **Process Flow:**
+1. **AI System**: Identifies high-risk employee (risk score > 75%)  
+2. **AI System**: Generates alert with risk factors and suggested actions  
+3. **Direct Manager**: Receives dashboard notification with employee context  
+4. **Direct Manager**: Conducts retention conversation within 48 hours  
+5. **HR Business Partner**: Provides coaching and intervention options  
+6. **Employee**: Receives targeted support (career development, compensation review, etc.)  
+7. **AI System**: Monitors outcome and adjusts risk scoring  
 
-**Key Benefits:**
-- Clarifies decision-making boundaries
-- Identifies handoff inefficiencies
-- Aligns with automation points in SLA workflow
+### **Decision Points:**
+- Risk level determines intervention intensity  
+- Manager capacity influences escalation path  
+- Employee response guides follow-up actions  
 
 ---
 
-## 👣 User Journey Map
+## 👣 Manager Journey Map
 
-This journey map captures the employee experience during onboarding under two conditions: manual and AI-automated.
+### **Scenario**: Manager receives AI alert about at-risk team member
 
-**Impact:**
-- Automation reduces onboarding friction
-- Enables timely resolution through triggers
-- Reinforces SLA commitments with transparency
+**Stage 1: Alert Reception**  
+- Touchpoint: Dashboard notification + email summary  
+- Experience: Clear, actionable information with risk context  
+- Emotions: Informed, prepared, confident  
+
+**Stage 2: Preparation**  
+- Touchpoint: AI-generated talking points and intervention suggestions  
+- Experience: Guided approach with specific risk factors highlighted  
+- Emotions: Equipped, strategic, empathetic  
+
+**Stage 3: Conversation**  
+- Touchpoint: One-on-one discussion with employee  
+- Experience: Data-informed but human-centered dialogue  
+- Emotions: Authentic, supportive, solution-focused  
+
+**Stage 4: Follow-up**  
+- Touchpoint: Progress tracking dashboard + automated reminders  
+- Experience: Continuous visibility into retention efforts  
+- Emotions: Accountable, motivated, successful  
+
+### **Pain Points Addressed:**
+- ❌ Before: Managers unaware of risk until exit conversation  
+- ✅ After: Proactive alerts with 3–6 months lead time  
+- ❌ Before: No guidance on retention conversations  
+- ✅ After: AI-powered suggestions based on risk factors  
+- ❌ Before: No tracking of intervention effectiveness  
+- ✅ After: Continuous monitoring and outcome measurement  
+
+---
+
+## 📊 Solution Architecture
+
+### **Data Layer**
+- Source Systems: HRIS, Performance, Payroll, Surveys  
+- Data Pipeline: Real-time ETL, validation  
+- Feature Store: Key predictors from 04_Data_Analysis  
+
+### **AI/ML Layer**
+- Model: Random Forest + XGBoost, 87% accuracy  
+- Features: 35+ validated variables  
+- Deployment: Containerized model with A/B testing  
+- Monitoring: Drift detection + retraining triggers  
+
+### **Application Layer**
+- Manager Dashboard: Risk alerts + action tracking  
+- HR Analytics Portal: Org-level trends  
+- Mobile App: On-the-go access  
+
+### **Integration Layer**
+- APIs: Real-time risk scoring  
+- Workflow Engine: Automated alerts and routing  
+- Notification System: Email, Slack, mobile  
 
 ---
 
 ## 📌 Supporting Files
 
-| File | Description |
-|------|-------------|
-| `Framework_Decision_Matrix.xlsx` | Logic behind which solutions were prioritized |
-| `Slide_Deck_Design_Solutions.pptx` | Presentation-ready summary for leadership |
-| `Workflow Logic for AI Escalation.png` | Additional diagram supporting trigger logic |
-| `Solution_Sketches.md` | Placeholder for future design iterations |
+| File | Description | Purpose |
+|------|-------------|---------|
+| `AI_Risk_Detection_Flow.png` | Workflow diagram | Development reference |
+| `Manager_Dashboard_Mockup.png` | UI mockup | User validation |
+| `Retention_Intervention_Swimlane.png` | Process map | Cross-functional clarity |
+| `Before_After_Process_Comparison.png` | Visual summary | Executive communication |
+| `Solution_Architecture_Diagram.png` | Technical blueprint | Engineering planning |
+| `Business_Case_Summary.xlsx` | ROI calculator | Financial modeling |
+| `Implementation_Roadmap.pptx` | Delivery timeline | Stakeholder alignment |
 
 ---
 
 ## ✏️ Solution Sketches
 
-Explore future-state concepts and raw ideation notes for continuous improvement:
+### **Future Enhancements:**
+- Predictive career pathing  
+- Peer group attrition benchmarking  
+- External salary market comparison  
+- Sentiment tracking via communication data  
+- AI-triggered retention incentives  
 
-👉 [Solution_Sketches.md](./Solution_Sketches.md)
+### **Integration Ideas:**
+- LMS: Targeted learning plans  
+- Performance Reviews: Embedded risk prompts  
+- ATS: Feedback loop from hiring to retention  
+- Engagement Tools: Coordinated outreach  
 
-> 💡 This folder serves as a visual anchor for design discussions, solution alignment, and stakeholder buy-in.
+---
+
+## 🎯 Success Metrics Aligned with Data Analysis
+
+### **Leading Indicators**
+- Accuracy: 85%+  
+- Alert Response Time: <48 hours  
+- Manager Engagement: 90%+  
+
+### **Lagging Indicators**
+- Turnover Reduction: 20%  
+- Cost Savings: $2.1M+  
+- Retention Rate Lift: 15–25%  
+
+---
