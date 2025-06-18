@@ -1,60 +1,85 @@
-# 👥 01_Stakeholder_Alignment
+# 👥 01_Stakeholder_Alignment | Building Coalition for Change
 
-This folder documents the initial stakeholder mapping and alignment activities conducted to support the AI Operating Model Transformation. It identifies key stakeholder roles, outlines engagement strategies, and defines communication plans that ensure alignment throughout the project lifecycle.
+> **Building stakeholder coalition and engagement strategy for AI transformation success**
 
----
-
-## 📌 Purpose
-
-- Identify key decision-makers, influencers, and impacted roles
-- Develop tailored communication strategies for each stakeholder group
-- Ensure alignment on goals, scope, and expectations prior to solution design
+This folder contains stakeholder mapping, engagement strategies, and change management frameworks essential for securing buy-in and driving adoption throughout the AI operating model transformation.
 
 ---
 
-## 📁 Key Artifacts
+## 📌 Phase Overview
 
-| File | Description |
-|------|-------------|
-| `Stakeholder_Map.png` | Visual mapping of stakeholder categories and influence |
-| `Communication_Plan.xlsx` | Engagement tactics, cadence, and message ownership |
-| `README.md` | This documentation file |
+The **Stakeholder Alignment phase** focuses on identifying, mapping, and engaging all stakeholders critical to transformation success. This phase builds the coalition necessary to drive change and ensures sustainable adoption of AI-enabled processes.
+
+**Consulting Parallel**: *This mirrors the "Stakeholder Engagement" workstream where consultants build consensus, manage resistance, and create momentum for transformation.*
 
 ---
 
-## 👤 Stakeholder Groups
+## 🎯 Phase Objectives
 
-| Role | Description |
-|------|-------------|
-| Executive Sponsor | Provides vision, budget, and authority |
-| AI Product Owner | Owns delivery and prioritization of AI use cases |
-| Data Lead | Ensures data readiness and integrity |
-| Risk & Governance | Oversees compliance, ethical standards, and data controls |
-| Functional Leaders | Represent day-to-day process owners and champions |
+### **Coalition Building**
+- Map stakeholder influence, interest, and impact on transformation success
+- Identify champions, supporters, and potential sources of resistance
+- Develop targeted engagement strategies for different stakeholder groups
 
----
+### **Communication Strategy**
+- Create clear, compelling messaging for the transformation vision
+- Design communication channels and feedback mechanisms
+- Establish regular touchpoints and progress updates
 
-## 💬 Insights from Stakeholder Feedback
-
-Throughout the alignment phase, several key insights emerged from stakeholder input sessions:
-
-- Executives emphasized the need for quick wins to build confidence in AI.
-- Functional leaders sought clarity on how AI would change their day-to-day workflows.
-- Risk and compliance stakeholders flagged early concerns about data governance and model transparency.
-
-These insights were incorporated into both the opportunity prioritization and solution design phases to ensure alignment across business and technical domains.
+### **Change Management Foundation**
+- Assess organizational readiness for change
+- Design change management approach and governance
+- Plan capability building and training requirements
 
 ---
 
-## 🔁 Connected Decisions
+## 📁 Folder Contents
 
-Select decisions in the [Project Decision Log](../11_Project_Decision_Log/README.md) were directly informed by stakeholder priorities identified in this phase:
-
-- **D001:** Executive steering group engagement strategy  
-- **D005:** Phased MVP delivery tied to comfort level with change
+| Document | Purpose | Stakeholder Focus |
+|----------|---------|------------------|
+| **[Stakeholder_Mapping.md](./Stakeholder_Mapping.md)** | Comprehensive stakeholder analysis and influence mapping | All stakeholders |
+| **[Communication_Strategy.md](./Communication_Strategy.md)** | Multi-channel communication plan and messaging framework | Leadership + All teams |
+| **[RACI_Matrix.md](./RACI_Matrix.md)** | Roles, responsibilities, and decision rights framework | Core team + Leaders |
+| **[Change_Readiness_Assessment.md](./Change_Readiness_Assessment.md)** | Organizational readiness evaluation and gap analysis | HR + Management |
+| **[Engagement_Plan.md](./Engagement_Plan.md)** | Detailed stakeholder engagement roadmap and activities | All stakeholders |
+| **Stakeholder_Influence_Map.png** | Visual stakeholder influence and interest mapping | Executive summary |
 
 ---
 
-## ✅ Outcome
+## 🗺️ Stakeholder Mapping Framework
 
-A unified stakeholder map and communications framework were established, ensuring that expectations were managed, resistance was mitigated early, and project momentum was sustained throughout the transformation journey.
+### **Key Stakeholder Categories**
+
+```mermaid
+graph TB
+    subgraph "Executive Leadership"
+        A[CEO] --> B[COO]
+        A --> C[CTO]
+        A --> D[CFO]
+        A --> E[CHRO]
+    end
+
+    subgraph "Operational Leadership"
+        F[Business Unit Leaders]
+        G[Department Heads]
+        H[Process Owners]
+    end
+
+    subgraph "Delivery Teams"
+        I[IT Teams]
+        J[Data Teams]
+        K[Operations Teams]
+        L[Customer Service]
+    end
+
+    subgraph "Support Functions"
+        M[Legal & Compliance]
+        N[Risk Management]
+        O[Change Management]
+        P[Training & Development]
+    end
+
+    A -.-> F
+    F -.-> I
+    B -.-> G
+    G -.-> J
