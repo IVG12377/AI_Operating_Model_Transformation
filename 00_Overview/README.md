@@ -1,3 +1,105 @@
+# 📋 Project Overview
+
+> **Foundation phase of the AI Operating Model Transformation engagement**
+
+This folder contains the foundational documents that establish the framework, methodology, and governance structure for the entire AI operating model transformation initiative.
+
+---
+
+## 📌 Phase Overview
+
+The **Overview phase** serves as the engagement foundation, establishing clear project parameters, methodology frameworks, and governance structures that guide the entire transformation lifecycle.
+
+### 🎯 **Phase Objectives**
+- Establish clear project charter and governance framework
+- Define transformation methodology and approach
+- Align on success criteria and measurement frameworks  
+- Set stakeholder expectations and communication protocols
+- Create decision-making structure and escalation paths
+
+### ⏱️ **Duration**: Weeks 1-2  
+### 👥 **Key Stakeholders**: Executive Sponsors, Project Leadership, Core Team
+
+---
+
+## 📁 Folder Contents
+
+| Document | Purpose | Audience | Status |
+|----------|---------|----------|--------|
+| **[Project_Charter.md](./Project_Charter.md)** | Formal project initiation and scope definition | Executive Leadership | ✅ Complete |
+| **[Methodology_Framework.md](./Methodology_Framework.md)** | Detailed transformation methodology and approach | Project Team, Consultants | ✅ Complete |
+| **[Executive_Brief.md](./Executive_Brief.md)** | High-level summary for executive stakeholders | C-Suite, Board Members | ✅ Complete |
+| **[Governance_Structure.md](./Governance_Structure.md)** | Decision rights, escalation paths, and oversight | All Stakeholders | 🔄 In Progress |
+| **AI_Operating_Model_Framework.png** | Visual framework diagram | All Audiences | ✅ Complete |
+| **[Engagement_Timeline.md](./Engagement_Timeline.md)** | Master project timeline and milestones | Project Team | 🔄 In Progress |
+
+---
+
+## 🎯 Key Success Criteria
+
+### **Immediate Outcomes (Weeks 1–2)**
+- ✅ Executive alignment on transformation vision and scope  
+- ✅ Clear governance structure with defined roles and responsibilities  
+- ✅ Approved project charter with resource commitments  
+- ✅ Stakeholder communication plan activated  
+- ✅ Risk register established with mitigation strategies
+
+### **Phase Completion Criteria**
+- [ ] All stakeholders signed off on project charter  
+- [ ] Governance bodies established and operational  
+- [ ] Communication protocols tested and functional  
+- [ ] Risk mitigation plans approved and resourced  
+- [ ] Next phase (Stakeholder Alignment) ready to launch
+
+---
+
+## 🔧 Methodology Framework
+
+Our transformation approach follows a **structured consulting methodology** that mirrors best practices from leading strategy firms:
+
+### **1. Foundation & Alignment** *(Current Phase)*
+- Project charter and governance establishment  
+- Stakeholder mapping and engagement strategy  
+- Baseline assessment and success metrics definition
+
+### **2. Discovery & Analysis**
+- Current state process analysis  
+- AI opportunity identification and prioritization  
+- Data landscape assessment and capability mapping
+
+### **3. Design & Planning**
+- Future state operating model design  
+- Implementation roadmap and change strategy  
+- Technology architecture and integration planning
+
+### **4. Execution & Measurement**
+- Phased implementation with continuous monitoring  
+- Success metrics tracking and course correction  
+- Value realization and impact assessment
+
+---
+
+## 📊 Transformation Framework
+
+```mermaid
+graph TB
+    A[00_Overview<br/>Foundation] --> B[01_Stakeholder_Alignment<br/>Engagement]
+    A --> C[02_Current_State<br/>Analysis]
+    B --> D[03_Opportunity_Analysis<br/>Prioritization]
+    C --> D
+    D --> E[04_Data_Analysis<br/>Evidence Building]
+    E --> F[05_Design_Solutions<br/>Future State]
+    F --> G[06_Implementation<br/>Execution Planning]
+    G --> H[07_Strategic_Recommendations<br/>Executive Guidance]
+    H --> I[08_Impact_Measurement<br/>Value Tracking]
+
+    J[09_AI_Tools<br/>Technology Enablers] -.-> A
+    K[10_Business_Case<br/>Financial Justification] -.-> A
+    L[11_Project_Decision_Log<br/>Knowledge Management] -.-> A
+
+    style A fill:#e1f5fe
+    style H fill:#e8f5e8
+    style I fill:#fff3e0
 # 🧠 AI Operating Model Transformation
 
 A visually structured consulting simulation focused on transforming enterprise operations through AI integration. This public project showcases how strategy consultants approach operating model redesign—with emphasis on stakeholder alignment, process analysis, automation opportunities, and value realization.
